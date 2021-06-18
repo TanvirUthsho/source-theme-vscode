@@ -2,10 +2,11 @@
     "name": "source-theme",
     "displayName": "Source Theme",
     "description": "Source Theme",
-    "version": "0.0.1",
+    "version": "1.3.7",
     "engines": {
         "vscode": "^1.57.0"
     },
+    "publisher": "T.H.Uthsho",
     "author": {
         "name": "T.H.Uthsho"
     },
