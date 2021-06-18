@@ -6,6 +6,15 @@
     "engines": {
         "vscode": "^1.57.0"
     },
+    "author": {
+        "name": "T.H.Uthsho"
+    },
+    "license": "MIT",
+    "homepage": "",
+    "keywords": [
+        "Colorful VScode Source Theme"
+    ],
+    "icon": "source-theme-logo.jpg",
     "categories": [
         "Themes"
     ],

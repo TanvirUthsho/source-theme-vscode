@@ -272,7 +272,7 @@
 				"name": "Invalid",
 				"scope": "invalid",
 				"settings": {
-					"foreground": "#9e0a52",
+					"foreground": "#ff007b",
 					"fontStyle": ""
 				}
 			},
