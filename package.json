@@ -1,0 +1,21 @@
+{
+    "name": "source-theme",
+    "displayName": "Source Theme",
+    "description": "Source Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Source Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Source Theme-color-theme.json"
+            }
+        ]
+    }
+}
