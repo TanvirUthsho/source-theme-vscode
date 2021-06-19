@@ -10,7 +10,7 @@
 				],
 				"settings": {
 					"fontStyle": "italic",
-					"foreground": "#ffdde2f3"
+					"foreground": "#ffdde29a"
 					// "foreground": "#ff9271",
 					// "foreground": "#FF8B39",
 				}
@@ -647,7 +647,8 @@
 				"name": "Markdown title hash",
 				"scope": "punctuation.definition.heading.markdown",
 				"settings": {
-					"foreground": "#f37500"
+					// "foreground": "#f37500"
+					"foreground": "#f37500b9"
 				}
 			},
 
@@ -665,7 +666,8 @@
 					"punctuation.definition.italic.markdown"
 				],
 				"settings": {
-					"foreground": "#f37500"
+					// "foreground": "#f37500"
+					"foreground": "#f37500b9",
 				}
 			},
 			{
@@ -863,7 +865,6 @@
 			// =======Synthwave=============
 			// "editor.background": "#262335",
 			// =========MY=================
-			// "editor.background": "#230736",
 			// "editor.background": "#102a43",
 			// "editor.background": "#00203FFF",
 
@@ -969,7 +970,7 @@
 
 			// Scrollbar Control
 			"scrollbar.shadow": "#ff25ed57",
-			"scrollbarSlider.background": "#00ff6aa4",
+			"scrollbarSlider.background": "#94fff6b7",
 			"scrollbarSlider.activeBackground": "#e92b2b9d",
 			"scrollbarSlider.hoverBackground": "#e95b5ba2",
 			//Side Bar
@@ -996,7 +997,7 @@
 
 			// Status Bar
 			"statusBar.background": "#01001d",
-			"statusBar.border": "#2f2d6b",
+			"statusBar.border": "#e6117b",
 			"statusBar.foreground": "#F4F4FF",
 			"statusBar.debuggingBackground": "#01001d",
 			"statusBar.noFolderBackground": "#01001d",
