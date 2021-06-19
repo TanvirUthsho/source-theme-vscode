@@ -93,6 +93,13 @@
 				}
 			},
 			{
+				"name": "string",
+				"scope": "string.quoted.double",
+				"settings": {
+					"foreground": "#FF9CBE",
+				}
+			},
+			{
 				"name": "constant.language",
 				"scope": "constant.language.boolean",
 				"settings": {
@@ -148,13 +155,13 @@
 					"foreground": "#00ffb7"
 				}
 			},
-			{
-				"name": "Entity",
-				"scope": "entity",
-				"settings": {
-					"foreground": "#fede5d"
-				}
-			},
+			// {
+			// 	"name": "Entity",
+			// 	"scope": "entity.name.function",
+			// 	"settings": {
+			// 		"foreground": "#fede5d"
+			// 	}
+			// },
 			{
 				"name": "Inherited class",
 				"scope": [
@@ -353,6 +360,9 @@
 					"foreground": "#FF00F2"
 				}
 			},
+
+
+			// ============JSON==================
 			{
 				"name": "JSON String",
 				"scope": "meta.structure.dictionary.json string.quoted.double.json",
@@ -605,7 +615,7 @@
 				"name": "JAVASCRIPT Storage Type Function",
 				"scope": "source.js storage.type.function",
 				"settings": {
-					"foreground": "#ff25f0"
+					"foreground": "#3caaf3"
 				}
 			},
 			{
