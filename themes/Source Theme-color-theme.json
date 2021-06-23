@@ -877,7 +877,7 @@
         //========= Night Owl/Witer is Coming========
         // "editor.background": "#011627",
         // =========Tokyo Hack==============
-        // "editor.background": "#14051f",//"#18173E"
+        // "editor.background": "#14051f",//"#18173E",
         // =======Synthwave=============
         "editor.background": "#262335",
         // =========MY=================
@@ -987,12 +987,12 @@
 
         // Scrollbar Control
         "scrollbar.shadow": "#ff25ed57",
-        "scrollbarSlider.background": "#94fff6b7",
-        "scrollbarSlider.activeBackground": "#e92b2b9d",
+        "scrollbarSlider.background": "#94fff693",
+        "scrollbarSlider.activeBackground": "#e92b2b98",
         "scrollbarSlider.hoverBackground": "#e95b5ba2",
         //Side Bar
-        "sideBar.background": "#0a092e",
-        "sideBar.border": "#2f2d6b",
+        "sideBar.background": "#011627",
+        "sideBar.border": "#e6117b",
         "sideBar.foreground": "#F4F4FF",
         "sideBarSectionHeader.background": "#01001d",
         "sideBarSectionHeader.foreground": "#94fff6",
@@ -1137,7 +1137,7 @@
         "walkThrough.embeddedEditorBackground": "#0d3a58",
         "welcomePage.buttonBackground": "#193549",
         "welcomePage.buttonHoverBackground": "#0d3a58",
-        "widget.shadow": "#ffd900"
+        "widget.shadow": "#e6117b"
         // "widget.shadow": "#219fd5",
     }
 }
