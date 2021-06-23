@@ -875,14 +875,16 @@
         // === Editor ===
 
         //========= Night Owl/Witer is Coming========
-        "editor.background": "#011627",
+        // "editor.background": "#011627",
         // =========Tokyo Hack==============
         // "editor.background": "#14051f",//"#18173E",
         // =======Synthwave=============
-        // "editor.background": "#262335",
+        "editor.background": "#262335",
         // =========MY=================
         // "editor.background": "#102a43",
         // "editor.background": "#00203FFF",
+        // "editor.background": "#112d52",
+        // "editor.background": "#152042",
 
         "editor.foreground": "#fdfeff",
         // "editor.foreground": "#ffffff",
