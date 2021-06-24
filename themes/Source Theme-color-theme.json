@@ -296,7 +296,7 @@
             "name": "Invalid",
             "scope": "invalid",
             "settings": {
-                "foreground": "#ff007b",
+                "foreground": "#ff3957",
                 "fontStyle": ""
             }
         },
@@ -799,14 +799,14 @@
             "name": "GitGutter inserted",
             "scope": "markup.inserted.git_gutter",
             "settings": {
-                "foreground": "#ffd400"
+                "foreground": "#ffc400"
             }
         },
         {
             "name": "GitGutter changed",
             "scope": "markup.changed.git_gutter",
             "settings": {
-                "foreground": "#0685fc"
+                "foreground": "#d9ff00"
             }
         },
         {
@@ -894,7 +894,7 @@
         "editorLineNumber.foreground": "#a762a780",
         "editorLineNumber.activeForeground": "#72f1b8",
         "editorCursor.foreground": "#ffd902",
-        "editor.selectionBackground": "#00ff3757",
+        "editor.selectionBackground": "#00ff3749",
         "editor.selectionHighlightBackground": "#35008b",
         "editor.findMatchBackground": "#ff7300ab",
         "editor.findMatchHighlightBackground": "#960000b9",
@@ -948,17 +948,17 @@
         "editorGroupHeader.tabsBackground": "#030d22",
 
         // list
-        "list.activeSelectionBackground": "#322EA6",
+        "list.activeSelectionBackground": "#e6117c6e",
         "list.activeSelectionForeground": "#ffffff",
         "list.dropBackground": "#322EA6",
-        "list.errorForeground": "#ff9a9a",
+        "list.errorForeground": "#fa7373",
         "list.focusBackground": "#242272",
         "list.focusForeground": "#ffffff",
         "list.highlightForeground": "#94fff6",
         "list.hoverBackground": "#ad366e88",
         "list.hoverForeground": "#ffffff",
         "list.inactiveFocusBackground": "#242272",
-        "list.inactiveSelectionBackground": "#242272",
+        "list.inactiveSelectionBackground": "#e6117c6e",
         "list.inactiveSelectionForeground": "#ffffff",
         "list.filterMatchBorder": "#ad366ecf",
         "list.invalidItemForeground": "#ffa4a4",
@@ -986,7 +986,7 @@
         "merge.incomingHeaderBackground": "#185294",
 
         // Scrollbar Control
-        "scrollbar.shadow": "#ff25ed57",
+        "scrollbar.shadow": "#ff25edf1",
         "scrollbarSlider.background": "#94fff693",
         "scrollbarSlider.activeBackground": "#e92b2b98",
         "scrollbarSlider.hoverBackground": "#e95b5ba2",
@@ -1017,8 +1017,8 @@
         "statusBar.noFolderBackground": "#01001d",
         "statusBarItem.hoverBackground": "#ad366ecf",
         "statusBarItem.activeBackground": "#242272",
-        // "statusBar.debuggingBorder": "#ffc600",
-        // "statusBar.debuggingForeground": "#ffc600",
+        "statusBar.debuggingBorder": "#ffc600",
+        "statusBar.debuggingForeground": "#ffc600",
 
         // Debug Icons.
         "debugIcon.startForeground": "#FAD000",
