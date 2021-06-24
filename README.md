@@ -13,12 +13,12 @@
             A professional theme with hand-picked & bold shades of purple for your VS Code editor and terminal. One of the excellent most downloaded and top rated VSCode Themes on the marketplace.
         </td>
     </tr>
-    <tr><td><sup> Follow Ahmad's on GitHub <a href='https://github.com/TanvirUthsho'>@TanvirUthsho</a> —   Say Hi on Twitter <a href="https://">@Uthsho</a></sup></td><td  align='center'> <a  target="_blank" href='https://AhmadAwais.com/'>👋 </a></td></tr>
+    <tr><td><sup> Follow Uthsho's on GitHub <a href='https://github.com/TanvirUthsho'>@TanvirUthsho</a> —   Say Hi on Twitter <a href="https://">@Uthsho</a></sup></td><td  align='center'> <a  target="_blank" href='https://AhmadAwais.com/'>👋 </a></td></tr>
 </table>
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/ahmadawais/shades-of-purple-vscode.svg?style=social&label=Stars)](https://github.com/ahmadawais/shades-of-purple-vscode/stargazers) [![GitHub followers](https://img.shields.io/github/followers/ahmadawais.svg?style=social&label=Follow)](https://github.com/ahmadawais?tab=followers) [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+[![GitHub stars](https://img.shields.io/github/stars/TanvirUthsho/source-theme-vscode.svg?style=social&label=Stars)](https://github.com/TanvirUthsho/source-theme-vscode/stargazers)   [![GitHub followers](https://img.shields.io/github/followers/TanvirUthsho.svg?style=social&label=Follow)](https://github.com/TanvirUthsho?tab=followers) [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@T.H.Uthsho)](https://twitter.com/t.h.uthsho/)
 
 </div>
 
@@ -30,11 +30,11 @@
 ## Easy Installation
 
 1. Open the extensions sidebar on Visual Studio Code
-2. Search for **Shades of Purple Theme**
+2. Search for **Source Theme**
 3. Click **Install** to install it.
 4. Click **Reload** to reload your editor.
-5. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
-6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) like 110+ awesome devs to appreciate the effort behind this theme.
+5. Code/File ＞ Preferences ＞ Color Theme ＞ **Source Theme**.
+6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=uthsho.source-theme#review-details) like 110+ awesome devs to appreciate the effort behind this theme.
 
 <br>
 
@@ -43,10 +43,10 @@
 ## Alternate Installation
 
 1. Launch Quick Open using <kbd>Cmd</kbd>+<kbd>P</kbd> — or — <kbd>Ctrl</kbd>+<kbd>P</kbd>.
-2. Paste the command `ext install shades-of-purple`
+2. Paste the command `ext install source-theme`
 3. Click **Install** to install it.
 4. Click **Reload** to reload the your editor.
-5. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
+5. Code/File ＞ Preferences ＞ Color Theme ＞ **Source theme**.
 6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) like 110+ awesome devs to appreciate the effort on this theme.
 
 <br>
@@ -57,7 +57,7 @@
 
 This theme works best with the following settings. Especially if you have the Operator mono font. Add it to your user settings JSON object.
 
-_You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/logo.png) that I created based on the work of [VSCode Icons](https://github.com/dhanishgajjar/vscode-icons#how-to-install)._
+_You can also use a custom [VSCode Source theme icon](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/logo.png) that I created based on the work of [VSCode Icons](https://github.com/dhanishgajjar/vscode-icons#how-to-install)._
 
 ```json
 // Theme Setup.

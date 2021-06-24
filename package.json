@@ -3,7 +3,7 @@
     "displayName": "Source Theme",
     "description": "🔥 Official theme by T.H.Uthsho.",
     "version": "3.3.7",
-    "icon": "content/source-theme-logo.png",
+    "icon": "images/source-theme-logo1.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/TanvirUthsho/source-theme-vscode"
@@ -18,9 +18,23 @@
     "license": "MIT",
     "homepage": "",
     "keywords": [
+        "source",
+        "theme",
         "VSCode",
-        "Themes",
-        "Colorful VScode Source Theme"
+        "vscode",
+        "themes",
+        "colorful vscode theme",
+        "colorful theme",
+        "dark theme",
+        "dark",
+        "dark colorful theme",
+        "yellow theme",
+        "dark yellow theme",
+        "dark blue theme",
+        "t.h.uthsho",
+        "thuthsho",
+        "t h uthsho",
+        "uthsho"
     ],
     "categories": [
         "Themes"
