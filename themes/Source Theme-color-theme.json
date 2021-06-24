@@ -166,9 +166,7 @@
         // },
         {
             "name": "keyword",
-            "scope": [
-                "keyword.control.import.include.php"
-            ],
+            "scope": ["keyword.control.import.include.php"],
             "settings": {
                 "fontStyle": "italic",
                 "foreground": "#9EFFFF"
@@ -876,10 +874,13 @@
 
         //========= Night Owl/Witer is Coming========
         // "editor.background": "#011627",
-        // =========Tokyo Hack==============
-        // "editor.background": "#14051f",//"#18173E",
+        //========= Cobalt2=========================
+        // "editor.background": "#193549",
         // =======Synthwave=============
         "editor.background": "#262335",
+        // =========Tokyo Hack==============
+        // "editor.background": "#14051f",//"#18173E",
+
         // =========MY=================
         // "editor.background": "#102a43",
         // "editor.background": "#00203FFF",
@@ -1001,22 +1002,23 @@
         // "activityBar.background": "#030d22",
         // "activityBar.foreground": "#ff2592",
         // "activityBarBadge.background": "#d31b77",
-        // "activityBarBadge.foreground": "#ffffff",
+        // "activityBarBadge.foreground": "#ffffff"
 
         //Activity Bar
         "activityBar.background": "#DBFFDB",
         "activityBar.foreground": "#94fff6",
         "activityBar.inactiveForeground": "#e6117b",
         "activityBar.activeBackground": "#0a0441",
-
+        "activityBarBadge.background": "#ffc600",
+        "activityBarBadge.foreground": "#000",
         // Status Bar
-        "statusBar.background": "#01001d",
+        "statusBar.background": "#15232d",
         "statusBar.border": "#e6117b",
         "statusBar.foreground": "#F4F4FF",
-        "statusBar.debuggingBackground": "#01001d",
-        "statusBar.noFolderBackground": "#01001d",
+        "statusBar.noFolderBackground": "#020137",
         "statusBarItem.hoverBackground": "#ad366ecf",
         "statusBarItem.activeBackground": "#242272",
+        "statusBar.debuggingBackground": "#01001d",
         "statusBar.debuggingBorder": "#ffc600",
         "statusBar.debuggingForeground": "#ffc600",
 
@@ -1115,6 +1117,12 @@
         "gitDecoration.untrackedResourceForeground": "#1cf16e",
         "gitDecoration.ignoredResourceForeground": "#808080",
         "gitDecoration.conflictingResourceForeground": "#FF7200",
+        "gitDecoration.addedResourceForeground": "#e1fa00",
+
+        // Gutter
+        "editorGutter.deletedBackground": "#ff0055",
+        "editorGutter.addedBackground": "#4ad45c",
+        "editorGutter.modifiedBackground": "#dfdc4b",
 
         // // Git Colors
         // "gitDecoration.modifiedResourceForeground": "#fdd81d",
