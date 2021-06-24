@@ -106,18 +106,13 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 "importCost.smallPackageColor": "#B362FF"
 ```
 
-🦄 _I'll be teaching more about configuring this theme and your Visual Studio Code editor at [VSCode.pro][course]. Interested?! Sign up to become a [VSCode Power User][course] →_
-
 <br>
 
 ![Shades of purple FAQs](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/7_faq.png)
 
 ## Frequently Asked Questions
 
-- 👌 [Shades of Purple VSCode Theme With No Italics](https://github.com/ahmadawais/shades-of-purple-vscode/issues/13#issuecomment-416182574)
-- 👌 [Matching styles for the “Highlight Matching Tag” extension?](https://github.com/ahmadawais/shades-of-purple-vscode/issues/20)
-- 👌 [Matching styles for the “Indent Rainbow” extension?](https://github.com/ahmadawais/shades-of-purple-vscode/issues/37)
-- 👌 [Can you share your VSCode Power User Setup?][course]
+- 👌 [Source Theme VSCode Theme With Italics Mix](https://github.com/TanvirUthsho/source-theme-vscode)
 
 <br>
 
@@ -127,7 +122,8 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 <div align="center">
 
 ![Markdown Syntax](https://img.shields.io/badge/SYNTAX-Markdown-gray.svg?colorB=5532F3)
-[![markdown](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/markdown.png)][course]
+
+![markdown](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/markdown.png)
 
 <br>
 
@@ -136,7 +132,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 <br>
 
 ![JavaScript Syntax](https://img.shields.io/badge/SYNTAX-JavaScript-gray.svg?colorB=5532F3)
-[![JavaScript](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/JavaScript.png)][course]
+![JavaScript](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/JavaScript.png)
 
 <br>
 
@@ -145,7 +141,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 <br>
 
 ![PHP Syntax](https://img.shields.io/badge/SYNTAX-PHP-gray.svg?colorB=5532F3)
-[![PHP](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/PHP.png)][course]
+![PHP](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/PHP.png)
 
 <br>
 
@@ -154,7 +150,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 <br>
 
 ![HTML Syntax](https://img.shields.io/badge/SYNTAX-HTML-gray.svg?colorB=5532F3)
-[![HTML](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/HTML.png)][course]
+![HTML](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/HTML.png)
 
 <br>
 
@@ -163,7 +159,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 <br>
 
 ![Pug Syntax](https://img.shields.io/badge/SYNTAX-Pug-gray.svg?colorB=5532F3)
-[![Pug](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Pug.png)][course]
+![Pug](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Pug.png)
 
 <br>
 
@@ -172,7 +168,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 <br>
 
 ![Python Syntax](https://img.shields.io/badge/SYNTAX-Python-gray.svg?colorB=5532F3)
-[![Python](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Python.png)][course]
+![Python](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Python.png)
 
 <br>
 
@@ -181,7 +177,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 <br>
 
 ![Go Syntax](https://img.shields.io/badge/SYNTAX-Go-gray.svg?colorB=5532F3)
-[![Go](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Go.png)][course]
+![Go](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Go.png)
 
 </div>
 
@@ -191,16 +187,18 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 
 ## Put `Source Theme` In VS Code
 
-- 🔥 [VSCode theme](https://github.com/ahmadawais/shades-of-purple-vscode) — Source Theme
+- 🔥 [VSCode theme](https://github.com/TanvirUthsho/source-theme-vscode) — Source Theme
 <br>
 <br>
 <br>
 
 ![Hello](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/10_hello.png)
 
-#### **Hello, we're the [Dev Couple](https://TheDevCouple.com)**!
+#### **Hello, I am a [Engineer](https://TheDevCouple.com)**!
 
-I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) am a Full Stack Web/JS Developer, OSS Dev Advocate, and a core developer at WordPress. My significant other ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and she's also a WP Core Contributor. Together with our [team](https://TheDevCouple.com/team), we run the [Dev Couple](https://TheDevCouple.com/) blog.
+I ([Tanvir Hossain Uthsho](https://twitter.com/t.h.uthsho/)).
+Uthsho means Source. That's why I named My theme Source Theme. I am a Full Stack Web/JS Developer, OSS Dev Advocate, and a core developer at WordPress.
+<!-- My significant other ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and she's also a WP Core Contributor. Together with our [team](https://TheDevCouple.com/team), we run the [Dev Couple](https://TheDevCouple.com/) blog. -->
 
 > #### [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568)
 > If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you. [Support here →](https://pay.paddle.com/checkout/515568)
@@ -211,11 +209,11 @@ I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) am a Full Stack Web/JS Deve
 
 ## License & Attribution
 
-**Licensed** as MIT ⓒ [Ahmad Awais](https://AhmadAwais.com/).
+**Licensed** as MIT ⓒ [Uthsho Hossian](https://uthshohossain.com/).
 
 Thanks to VSCode team at Microsoft for creating such an awesome code editor. Also to the creator of other high contrast themes that served as an inspiration. This theme takes inspiration from many VSCode themes including but not limited to Cobalt themes by Roberto Achar, Ayu, Palenight themes, Dracula themes, etc. VSCode and Icons8 for the icons in this readme.
 
-_👋 Follow Ahmad on Twitter_ [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+_👋 Follow Uthsho on Twitter_ [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/UthshoHossain/)
 
 <br>
 <br>
