@@ -28,7 +28,7 @@
 <br>
 <br>
 
-<img src= "images/4_install.png">
+![Install](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/4_install.png)
 
 ## Easy Installation
 
@@ -41,7 +41,7 @@
 
 <br>
 
-<img src= "images/5_alternate_installation.png">
+![alternate installation](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/5_alternate_installation.png)
 
 ## Alternate Installation
 
@@ -54,7 +54,7 @@
 
 <br>
 
-<img src= "images/6_custom_settings.png">
+![Tips](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/6_custom_settings.png)
 
 ## Best Custom Settings
 
@@ -111,7 +111,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 
 <br>
 
-<img src="images/7_faq.png">
+![Shades of purple FAQs](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/7_faq.png)
 
 ## Frequently Asked Questions
 
@@ -119,7 +119,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 
 <br>
 
-<img src="images/8_screenshots.png">
+![Screenshots](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/8_screenshots.png)
 
 ## Screenshots: Source Theme
 <div align="center">
