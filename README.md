@@ -25,7 +25,7 @@
 <br>
 <br>
 
-![Install](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/4_install.png)
+<img src= "images/4_install.png">
 
 ## Easy Installation
 
@@ -38,7 +38,7 @@
 
 <br>
 
-![alternate installation](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/5_alternate_installation.png)
+<img src= "images/5_alternate_installation.png">
 
 ## Alternate Installation
 
@@ -51,7 +51,7 @@
 
 <br>
 
-![Tips](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/6_custom_settings.png)
+<img src= "images/6_custom_settings.png">
 
 ## Best Custom Settings
 
@@ -61,7 +61,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 
 ```json
 // Theme Setup.
-"workbench.colorTheme": "Shades of Purple",
+"workbench.colorTheme": "Source Theme",
 "workbench.iconTheme": "vscode-icons",
 "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
 "terminal.integrated.fontFamily": "'Operator Mono', 'Inconsolata for Powerline', monospace",
@@ -108,7 +108,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 
 <br>
 
-![Shades of purple FAQs](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/7_faq.png)
+<img src="images/7_faq.png">
 
 ## Frequently Asked Questions
 
@@ -116,7 +116,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 
 <br>
 
-![Screenshots](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/8_screenshots.png)
+<img src="images/8_screenshots.png">
 
 ## Screenshots: Source Theme
 <div align="center">
@@ -127,8 +127,10 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 
 <br>
 
-![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+<img src="images/hr.png">
 
+<br>
+<br>
 <br>
 
 ![JavaScript Syntax](https://img.shields.io/badge/SYNTAX-JavaScript-gray.svg?colorB=5532F3)
@@ -136,8 +138,10 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 
 <br>
 
-![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+<img src="images/hr.png">
 
+<br>
+<br>
 <br>
 
 ![PHP Syntax](https://img.shields.io/badge/SYNTAX-PHP-gray.svg?colorB=5532F3)
@@ -145,7 +149,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 
 <br>
 
-![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+<img src="images/hr.png">
 
 <br>
 
@@ -154,27 +158,26 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 
 <br>
 
-![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
-
-<br>
+<img src="images/hr.png">
+<br><br><br>
 
 ![Pug Syntax](https://img.shields.io/badge/SYNTAX-Pug-gray.svg?colorB=5532F3)
 ![Pug](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Pug.png)
 
 <br>
 
-![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+<img src="images/hr.png">
 
-<br>
+<br><br><br>
 
 ![Python Syntax](https://img.shields.io/badge/SYNTAX-Python-gray.svg?colorB=5532F3)
 ![Python](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Python.png)
 
 <br>
 
-![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+<img src="images/hr.png">
 
-<br>
+<br><br><br>
 
 ![Go Syntax](https://img.shields.io/badge/SYNTAX-Go-gray.svg?colorB=5532F3)
 ![Go](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Go.png)
@@ -183,7 +186,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 
 <br>
 
-![Shades of purple for other software](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/9_put_sop.png)
+<img src="images/9_put_sop.png">
 
 ## Put `Source Theme` In VS Code
 
@@ -192,7 +195,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 <br>
 <br>
 
-![Hello](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/10_hello.png)
+<img src="images/10_hello.png">
 
 #### **Hello, I am a [Engineer](https://TheDevCouple.com)**!
 
@@ -205,7 +208,7 @@ Uthsho means Source. That's why I named My theme Source Theme. I am a Full Stack
 
 <br>
 
-![License & Attribution thanks](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/12_license.png)
+<img src="images/12_license.png">
 
 ## License & Attribution
 
@@ -219,4 +222,4 @@ _👋 Follow Uthsho on Twitter_ [![Ahmad on Twitter](https://img.shields.io/twit
 <br>
 <br>
 
-![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+<img src="images/hr.png">
