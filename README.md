@@ -219,7 +219,7 @@ Uthsho means Source. That's why I named My theme Source Theme. I am a Full Stack
 
 Thanks to VSCode team at Microsoft for creating such an awesome code editor. Also to the creator of other high contrast themes that served as an inspiration. This theme takes inspiration from many VSCode themes including but not limited to Cobalt themes by Roberto Achar, Ayu, Palenight themes, Dracula themes, etc. VSCode and Icons8 for the icons in this readme.
 
-_👋 Follow Uthsho on Twitter_ [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/UthshoHossain/)
+_👋 Follow Uthsho on Twitter_ [![Uthsho on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@T.H.Uthsho)](https://twitter.com/UthshoHossain/)
 
 <br>
 <br>
