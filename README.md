@@ -1,5 +1,8 @@
 <div align="center">
-<a align="center" href="https:// "><img align="center" src="https://.gif" /></a>
+<a align="center" href="https:// "><img align="center" src="images/all languages.gif" /></a>
+
+<br>
+<br>
 
 # Source Theme for VS Code
 </div>
@@ -13,7 +16,7 @@
             A professional theme with hand-picked & bold shades of purple for your VS Code editor and terminal. One of the excellent most downloaded and top rated VSCode Themes on the marketplace.
         </td>
     </tr>
-    <tr><td><sup> Follow Uthsho's on GitHub <a href='https://github.com/TanvirUthsho'>@TanvirUthsho</a> —   Say Hi on Twitter <a href="https://">@Uthsho</a></sup></td><td  align='center'> <a  target="_blank" href='https://AhmadAwais.com/'>👋 </a></td></tr>
+    <tr><td><sup> Follow Uthsho's on GitHub <a href='https://github.com/TanvirUthsho'>@TanvirUthsho</a> —   Say Hi on Twitter <a href="https://">@Uthsho</a></sup></td><td  align='center'> <a  target="_blank" href='https://uthsho3.com/'>👋 </a></td></tr>
 </table>
 
 <div align="center">
@@ -123,7 +126,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 
 ![Markdown Syntax](https://img.shields.io/badge/SYNTAX-Markdown-gray.svg?colorB=5532F3)
 
-![markdown](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/markdown.png)
+<img src="images/readme.png">
 
 <br>
 
@@ -134,7 +137,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 <br>
 
 ![JavaScript Syntax](https://img.shields.io/badge/SYNTAX-JavaScript-gray.svg?colorB=5532F3)
-![JavaScript](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/JavaScript.png)
+<img src="images/js.png">
 
 <br>
 
@@ -145,7 +148,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 <br>
 
 ![PHP Syntax](https://img.shields.io/badge/SYNTAX-PHP-gray.svg?colorB=5532F3)
-![PHP](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/PHP.png)
+<img src="images/php.png">
 
 <br>
 
@@ -154,7 +157,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 <br>
 
 ![HTML Syntax](https://img.shields.io/badge/SYNTAX-HTML-gray.svg?colorB=5532F3)
-![HTML](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/HTML.png)
+<img src="images/html.png">
 
 <br>
 
@@ -162,7 +165,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 <br><br><br>
 
 ![Pug Syntax](https://img.shields.io/badge/SYNTAX-Pug-gray.svg?colorB=5532F3)
-![Pug](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Pug.png)
+<img src="images/pug.png">
 
 <br>
 
@@ -171,7 +174,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 <br><br><br>
 
 ![Python Syntax](https://img.shields.io/badge/SYNTAX-Python-gray.svg?colorB=5532F3)
-![Python](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Python.png)
+<img src="images/python.png">
 
 <br>
 
@@ -180,7 +183,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 <br><br><br>
 
 ![Go Syntax](https://img.shields.io/badge/SYNTAX-Go-gray.svg?colorB=5532F3)
-![Go](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Go.png)
+<img src="images/go.png">
 
 </div>
 

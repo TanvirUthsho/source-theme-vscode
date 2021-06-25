@@ -55,7 +55,7 @@
             "name": "Keyword",
             "scope": "keyword",
             "settings": {
-                "foreground": "#ff2cf1"
+                "foreground": "#9ffa55"
                 // "foreground": "#ffd400"
             }
         },
@@ -157,13 +157,13 @@
                 "foreground": "#51FFC5"
             }
         },
-        // {
-        // 	"name": "Entity",
-        // 	"scope": "entity.name.function",
-        // 	"settings": {
-        // 		"foreground": "#fede5d"
-        // 	}
-        // },
+        {
+            "name": "Entity",
+            "scope": "entity.name.function",
+            "settings": {
+                "foreground": "#fede5d"
+            }
+        },
         {
             "name": "keyword",
             "scope": ["keyword.control.import.include.php"],
@@ -172,16 +172,26 @@
                 "foreground": "#9EFFFF"
             }
         },
-        // {
-        //     "name": "keyword",
-        //     "scope": [
-        //         "keyword.operator.key.php"
-        //     ],
-        //     "settings": {
-        //         "fontStyle": "italic",
-        //         "foreground": "#72f1b8"
-        //     }
-        // },
+        {
+            "name": "keyword",
+            "scope": ["keyword.operator.key.php"],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#72f1b8"
+            }
+        },
+        {
+            "name": "string",
+            "scope": [
+                "string.quoted.single.php",
+                "meta.array.php",
+                "meta.function-call.php"
+            ],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#9bff73"
+            }
+        },
         {
             "name": "Inherited class",
             "scope": [
@@ -570,11 +580,26 @@
                 "fontStyle": ""
             }
         },
+        // ===============python=================
         {
             "name": "PYTHON Self Argument",
             "scope": "variable.parameter.function.language.special.self.python",
             "settings": {
                 "foreground": "#51FFC5"
+            }
+        },
+        {
+            "name": "support.function.builtin.python",
+            "scope": "support.function.builtin.python",
+            "settings": {
+                "foreground": "#9EFFFF"
+            }
+        },
+        {
+            "name": "punctuation.separator.colon.python",
+            "scope": "punctuation.separator.colon.python",
+            "settings": {
+                "foreground": "#dcf56e"
             }
         },
         {
@@ -902,11 +927,15 @@
         "editor.hoverHighlightBackground": "#004696",
         "editor.wordHighlightBackground": "#47008ad5",
         "editor.wordHighlightStrongBackground": "#440083d5",
-        "editor.lineHighlightBackground": "#1c1347",
+        // "editor.lineHighlightBackground": "#5e284d",
         "editorRuler.foreground": "#11215e",
         // "editorIndentGuide.background": "#030d22",
         "editorIndentGuide.background": "#0e2c45",
         "editorIndentGuide.activeBackground": "#C792EA",
+
+        // current line styles
+        "editor.lineHighlightBackground": "#281e25",
+        "editor.rangeHighlightBackground": "#1F4662",
 
         // Error
         "editorError.foreground": "#fffb00",
