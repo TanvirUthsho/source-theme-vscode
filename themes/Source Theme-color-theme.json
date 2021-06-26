@@ -20,7 +20,7 @@
             "name": "String",
             "scope": "string",
             "settings": {
-                "foreground": "#fede5d"
+                "foreground": "#e5f634"
             }
         },
         {
@@ -94,7 +94,7 @@
             "name": "string",
             "scope": "string.quoted.double",
             "settings": {
-                "foreground": "#FEDE5D"
+                "foreground": "#e5f634"
             }
         },
         {
@@ -911,6 +911,7 @@
         // "editor.background": "#00203FFF",
         // "editor.background": "#112d52",
         // "editor.background": "#152042",
+        // "editor.background": "#00012c",
 
         "editor.foreground": "#fdfeff",
         // "editor.foreground": "#ffffff",
@@ -954,7 +955,7 @@
 
         // Fold Code
         "editor.foldBackground": "#b3ff0025",
-        "editorGutter.foldingControlForeground": "#ff0000",
+        "editorGutter.foldingControlForeground": "#51FFC5",
         // extensionButton
         "extensionButton.prominentBackground": "#0088ff",
         "extensionButton.prominentForeground": "#fff",
