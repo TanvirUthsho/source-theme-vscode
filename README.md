@@ -5,6 +5,10 @@
 <br>
 
 # Source Theme for VS Code
+
+[![Version](https://vsmarketplacebadge.apphb.com/version/THUthsho.source-theme.svg?subject=Source%20Theme&colorA=2D2A56&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=THUthsho.source-theme)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/THUthsho.source-theme.svg?label=Ratings&colorA=2D2A56&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=THUthsho.source-theme#review-details)
+
 </div>
 
 <br>
