@@ -1113,7 +1113,7 @@
         "peekViewTitleDescription.foreground": "#348bee",
 
         // panel
-        "panel.background": "#b11f53",
+        "panel.background": "#1e0b55ab",
         "panel.border": "#ffc600",
         "panelTitle.activeBorder": "#ffc600",
         "panelTitle.activeForeground": "#ffc600",
