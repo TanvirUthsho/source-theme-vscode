@@ -20,7 +20,7 @@
             "name": "String",
             "scope": "string",
             "settings": {
-                "foreground": "#e5f634"
+                "foreground": "#cde021"
             }
         },
         {
@@ -94,7 +94,7 @@
             "name": "string",
             "scope": "string.quoted.double",
             "settings": {
-                "foreground": "#e5f634"
+                "foreground": "#deee2e"
             }
         },
         {
@@ -865,7 +865,7 @@
         "foreground": "#ffffff",
 
         // button
-        "button.background": "#0088ff",
+        "button.background": "#f7206d",
         "button.foreground": "#fff",
         "button.hoverBackground": "#ff9d00",
         // badge
@@ -902,16 +902,15 @@
         //========= Cobalt2=========================
         // "editor.background": "#193549",
         // =======Synthwave=============
-        "editor.background": "#262335",
+        // "editor.background": "#262335",
         // =========Tokyo Hack==============
         // "editor.background": "#14051f",//"#18173E",
 
         // =========MY=================
-        // "editor.background": "#102a43",
+        "editor.background": "#00012c",
         // "editor.background": "#00203FFF",
         // "editor.background": "#112d52",
         // "editor.background": "#152042",
-        // "editor.background": "#00012c",
 
         "editor.foreground": "#fdfeff",
         // "editor.foreground": "#ffffff",
@@ -921,9 +920,9 @@
         "editorLineNumber.foreground": "#a762a780",
         "editorLineNumber.activeForeground": "#72f1b8",
         "editorCursor.foreground": "#ffd902",
-        "editor.selectionBackground": "#00ff3749",
+        "editor.selectionBackground": "#67004e",
         "editor.selectionHighlightBackground": "#35008b",
-        "editor.findMatchBackground": "#ff7300ab",
+        "editor.findMatchBackground": "#ff1c6b63",
         "editor.findMatchHighlightBackground": "#960000b9",
         "editor.hoverHighlightBackground": "#004696",
         "editor.wordHighlightBackground": "#47008ad5",
@@ -957,7 +956,7 @@
         "editor.foldBackground": "#b3ff0025",
         "editorGutter.foldingControlForeground": "#51FFC5",
         // extensionButton
-        "extensionButton.prominentBackground": "#0088ff",
+        "extensionButton.prominentBackground": "#f7206d",
         "extensionButton.prominentForeground": "#fff",
         "extensionButton.prominentHoverBackground": "#ff9d00",
         "focusBorder": "#0d3a58",
@@ -1037,8 +1036,9 @@
         //Activity Bar
         "activityBar.background": "#DBFFDB",
         "activityBar.foreground": "#94fff6",
-        "activityBar.inactiveForeground": "#e6117b",
-        "activityBar.activeBackground": "#0a0441",
+        "activityBar.activeBorder": "#f7206b",
+        "activityBar.inactiveForeground": "#f7206b",
+        "activityBar.activeBackground": "#00012c",
         "activityBarBadge.background": "#ffc600",
         "activityBarBadge.foreground": "#000",
         // Status Bar
@@ -1113,7 +1113,7 @@
         "peekViewTitleDescription.foreground": "#348bee",
 
         // panel
-        "panel.background": "#19237c",
+        "panel.background": "#b11f53",
         "panel.border": "#ffc600",
         "panelTitle.activeBorder": "#ffc600",
         "panelTitle.activeForeground": "#ffc600",
@@ -1175,7 +1175,7 @@
         "walkThrough.embeddedEditorBackground": "#0d3a58",
         "welcomePage.buttonBackground": "#193549",
         "welcomePage.buttonHoverBackground": "#0d3a58",
-        "widget.shadow": "#e6117b"
+        "widget.shadow": "#f7206bab"
         // "widget.shadow": "#219fd5",
     }
 }

@@ -6,8 +6,10 @@
 
 # Source Theme for VS Code
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/THUthsho.source-theme.svg?subject=Source%20Theme&colorA=2D2A56&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=THUthsho.source-theme)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/THUthsho.source-theme.svg?label=Ratings&colorA=2D2A56&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=THUthsho.source-theme#review-details)
+<a href="https://marketplace.visualstudio.com/items?itemName=THUthsho.source-theme#review-details"><img src="https://vsmarketplacebadge.apphb.com/rating-star/THUthsho.source-theme.svg?style=for-the-badge&colorA=FBBD30&colorB=F2AA08"/></a> <a href="https://marketplace.visualstudio.com/items?itemName=THUthsho.source-theme"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/THUthsho.source-theme.svg?style=for-the-badge&colorA=5DDB61&colorB=4BC74F&label=DOWNLOADS"/></a> <br>
+<p align="center">
+ <a href="https://"><img src="https://img.shields.io/badge/%20 Made by-Uthsho%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
+ </p>
 
 </div>
 
