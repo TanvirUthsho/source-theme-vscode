@@ -1022,7 +1022,7 @@
         "scrollbarSlider.hoverBackground": "#e95b5ba2",
         //Side Bar
         "sideBar.background": "#011627",
-        "sideBar.border": "#e6117b",
+        "sideBar.border": "#f7206d",
         "sideBar.foreground": "#F4F4FF",
         "sideBarSectionHeader.background": "#01001d",
         "sideBarSectionHeader.foreground": "#94fff6",
@@ -1043,7 +1043,7 @@
         "activityBarBadge.foreground": "#000",
         // Status Bar
         "statusBar.background": "#15232d",
-        "statusBar.border": "#e6117b",
+        "statusBar.border": "#f7206d",
         "statusBar.foreground": "#F4F4FF",
         "statusBar.noFolderBackground": "#020137",
         "statusBarItem.hoverBackground": "#ad366ecf",
