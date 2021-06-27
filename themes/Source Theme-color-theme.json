@@ -20,14 +20,14 @@
             "name": "String",
             "scope": "string",
             "settings": {
-                "foreground": "#cde021"
+                "foreground": "#e1ec60"
             }
         },
         {
             "name": "Number",
             "scope": "constant.numeric",
             "settings": {
-                "foreground": "#ffd400"
+                "foreground": "#ffdf3d"
             }
         },
         {
@@ -94,7 +94,7 @@
             "name": "string",
             "scope": "string.quoted.double",
             "settings": {
-                "foreground": "#deee2e"
+                "foreground": "#e1ec60"
             }
         },
         {
@@ -862,7 +862,7 @@
     },
 
     "colors": {
-        "foreground": "#ffffff",
+        "foreground": "#ffff",
 
         // button
         "button.background": "#f7206d",
@@ -908,11 +908,11 @@
 
         // =========MY=================
         "editor.background": "#00012c",
-        // "editor.background": "#00203FFF",
-        // "editor.background": "#112d52",
+        // "editor.background": "#001f33",
+        // "editor.background": "#040236",
         // "editor.background": "#152042",
 
-        "editor.foreground": "#fdfeff",
+        "editor.foreground": "#fff",
         // "editor.foreground": "#ffffff",
         // "editorLineNumber.foreground": "#ff9271",
         // "editorLineNumber.foreground": "#A599E9",
@@ -1027,11 +1027,8 @@
         "sideBarSectionHeader.background": "#01001d",
         "sideBarSectionHeader.foreground": "#94fff6",
 
-        // Activity Bar
-        // "activityBar.background": "#030d22",
-        // "activityBar.foreground": "#ff2592",
-        // "activityBarBadge.background": "#d31b77",
-        // "activityBarBadge.foreground": "#ffffff"
+        "icon.foreground": "#e5ff00",
+        "settings.headerForeground": "#8ee4f2",
 
         //Activity Bar
         "activityBar.background": "#DBFFDB",
@@ -1047,7 +1044,9 @@
         "statusBar.foreground": "#F4F4FF",
         "statusBar.noFolderBackground": "#020137",
         "statusBarItem.hoverBackground": "#ad366ecf",
-        "statusBarItem.activeBackground": "#242272",
+        "statusBarItem.activeBackground": "#a9c025",
+        "statusBarItem.remoteBackground": "#fbff00",
+        "statusBarItem.remoteForeground": "#000000",
         "statusBar.debuggingBackground": "#01001d",
         "statusBar.debuggingBorder": "#ffc600",
         "statusBar.debuggingForeground": "#ffc600",
