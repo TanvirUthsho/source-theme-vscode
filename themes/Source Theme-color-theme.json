@@ -1,6 +1,13 @@
 {
     "name": "Source Theme",
     "type": "dark",
+    /*************************  I ❤ OpenSource  *************************/
+
+    /*************************
+		@Author: Uthsho
+		@Repository:  (https://github.com/Tanviruthsho/sourcetheme-vscode)
+		@Since: July 3, 2021 - present
+        *************************/
     "tokenColors": [
         {
             "name": "Comment",
@@ -17,12 +24,53 @@
             }
         },
         {
-            "name": "String",
-            "scope": "string",
+			"name": "Class, Support",
+			"scope": [
+				"entity.name",
+				"support.type",
+				"support.class",
+				"support.orther.namespace.use.php",
+				"meta.use.php",
+				"support.other.namespace.php",
+				"markup.changed.git_gutter",
+				"support.type.sys-types"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+          {
+            "name": "HTML or XML tag",
+            "scope": "entity.name.tag",
             "settings": {
-                "foreground": "#e1ec60"
+              "foreground": "#72f1b8"
             }
-        },
+          },
+          {
+            "name": "HTML or XML tag brackets",
+            "scope": ["punctuation.definition.tag"],
+            "settings": {
+              "foreground": "#36f9f6"
+            }
+          },
+        // {
+        //     "name": "Meta",
+        //     "scope": "meta",
+        //     "settings": {
+        //         "foreground": "#00ffaa"
+        //     }
+        // },
+        // {
+
+        {
+			"name": "String",
+			"scope": [
+				"string",
+			],
+			"settings": {
+				"foreground": "#eeff00"
+			}
+		},
         {
             "name": "Number",
             "scope": "constant.numeric",
@@ -83,20 +131,7 @@
                 "foreground": "#f699cd"
             }
         },
-        {
-            "name": "Meta",
-            "scope": "meta",
-            "settings": {
-                "foreground": "#51FFC5"
-            }
-        },
-        {
-            "name": "string",
-            "scope": "string.quoted.double",
-            "settings": {
-                "foreground": "#e1ec60"
-            }
-        },
+
         {
             "name": "string",
             "scope": "string.quoted.double.js",
@@ -154,7 +189,7 @@
             "scope": ["entity.name.class", "entity.name.type.class"],
             "settings": {
                 "fontStyle": "",
-                "foreground": "#51FFC5"
+                "foreground": "#00faa7"
             }
         },
         {
@@ -180,6 +215,7 @@
                 "foreground": "#72f1b8"
             }
         },
+
         {
             "name": "string",
             "scope": [
@@ -220,27 +256,19 @@
             }
         },
         {
-            "name": "Tag name",
-            "scope": "entity.name.tag",
-            "settings": {
-                "fontStyle": "",
-                "foreground": "#51FFC5"
-            }
-        },
-        {
             "name": "Tag attribute",
             "scope": "entity.other.attribute-name",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#fc93b9"
+                "foreground": "#FF0077"
             }
         },
         {
             "name": "Tag attribute",
             "scope": "entity.other.attribute-name.class",
             "settings": {
-                "foreground": "#E1EC60",
-                "fontStyle": "bold"
+                "foreground": "#EEFF00",
+                "fontStyle": ""
             }
         },
         {
@@ -255,6 +283,13 @@
             }
         },
         {
+            "name": "Color",
+            "scope": "constant.other.color",
+            "settings": {
+              "foreground": "#f5aea8"
+            }
+          },
+        {
             "name": "Tag attribute",
             "scope": ["source"],
             "settings": {
@@ -262,13 +297,18 @@
             }
         },
         {
-            "name": "Library function",
-            "scope": "support.function",
-            "settings": {
-                "fontStyle": "",
-                "foreground": "#e1ec60"
-            }
-        },
+			"name": "Function, Special Method",
+			"scope": [
+				"entity.name.function",
+
+				"variable.function",
+				"support.function",
+				"keyword.other.special-method"
+			],
+			"settings": {
+				"foreground": "#00ffff"
+			}
+		},
         {
             "name": "Library constant",
             "scope": "support.constant",
@@ -895,7 +935,7 @@
         // progressBar
         "progressBar.background": "#ffc600",
 
-        // === Editor ===
+        // *******************=== Editor ===********************
 
         //========= Night Owl/Witer is Coming========
         // "editor.background": "#011627",
@@ -907,20 +947,14 @@
         // "editor.background": "#14051f",//"#18173E",
 
         // =========MY=================
-        "editor.background": "#00012c",
+        "editor.background": "#00002c",
         // "editor.background": "#001f33",
-        // "editor.background": "#040236",
-        // "editor.background": "#152042",
 
         "editor.foreground": "#fff",
-        // "editor.foreground": "#ffffff",
-        // "editorLineNumber.foreground": "#ff9271",
-        // "editorLineNumber.foreground": "#A599E9",
-        // "editorLineNumber.foreground": "#4b6479",
         "editorLineNumber.foreground": "#a762a780",
         "editorLineNumber.activeForeground": "#72f1b8",
         "editorCursor.foreground": "#ffd902",
-        "editor.selectionBackground": "#67004e",
+        "editor.selectionBackground": "#ff00885d",
         "editor.selectionHighlightBackground": "#35008b",
         "editor.findMatchBackground": "#ff1c6b63",
         "editor.findMatchHighlightBackground": "#960000b9",
@@ -951,6 +985,10 @@
         "editorMarkerNavigation.background": "#3B536433",
         "editorMarkerNavigationError.background": "#ff00006c",
         "editorMarkerNavigationWarning.background": "#ffc600",
+
+        /*************************  CHECKBOX  *************************/
+
+        "checkbox.foreground": "#00ebb8",
 
         // Fold Code
         "editor.foldBackground": "#b3ff0025",
@@ -1021,8 +1059,8 @@
         "scrollbarSlider.activeBackground": "#e92b2b98",
         "scrollbarSlider.hoverBackground": "#e95b5ba2",
         //Side Bar
-        "sideBar.background": "#011627",
-        "sideBar.border": "#f7206d",
+        "sideBar.background": "#011b31",
+        // "sideBar.border": "#f7206d",
         "sideBar.foreground": "#F4F4FF",
         "sideBarSectionHeader.background": "#01001d",
         "sideBarSectionHeader.foreground": "#94fff6",
@@ -1030,17 +1068,18 @@
         "icon.foreground": "#e5ff00",
         "settings.headerForeground": "#8ee4f2",
 
-        //Activity Bar
-        "activityBar.background": "#DBFFDB",
-        "activityBar.foreground": "#94fff6",
-        "activityBar.activeBorder": "#f7206b",
-        "activityBar.inactiveForeground": "#f7206b",
-        "activityBar.activeBackground": "#00012c",
-        "activityBarBadge.background": "#ffc600",
-        "activityBarBadge.foreground": "#000",
+        //*************************  ACTIVITY BAR  *************************/
+        "activityBarBadge.background": "#ffd900",
+        "activityBar.foreground": "#00ffff",
+        "activityBar.inactiveForeground": "#ffffff6c",
+        "activityBarBadge.foreground": "#080808",
+        "activityBar.background": "#0b1f44",
+        "activityBar.activeBorder": "#ff0080",
+        "activityBar.activeFocusBorder": "#ffd900",
+
         // Status Bar
         "statusBar.background": "#15232d",
-        "statusBar.border": "#f7206d",
+        "statusBar.border": "#ff0080",
         "statusBar.foreground": "#F4F4FF",
         "statusBar.noFolderBackground": "#020137",
         "statusBarItem.hoverBackground": "#ad366ecf",
@@ -1110,6 +1149,17 @@
         "peekViewResult.selectionBackground": "#ffd400",
         "peekViewTitle.background": "#372dc9",
         "peekViewTitleDescription.foreground": "#348bee",
+
+
+		/*************************  MINIMAP  *************************/
+
+		"minimap.selectionHighlight":"#2600277c",
+		"minimapSlider.hoverBackground":"#08f7ff3a",
+		"minimapGutter.deletedBackground":"#ff0000",
+		"minimapGutter.addedBackground":"#00ff55",
+		"minimapGutter.modifiedBackground":"#eeff00",
+		"minimap.findMatchHighlight":"#00ffff",
+		"minimapSlider.activeBackground":"#ffffffbb",
 
         // panel
         "panel.background": "#1e0b55ab",
