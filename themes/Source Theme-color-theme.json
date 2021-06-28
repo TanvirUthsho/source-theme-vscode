@@ -5,7 +5,7 @@
 
     /*************************
 		@Author: Uthsho
-		@Repository:  (https://github.com/Tanviruthsho/sourcetheme-vscode)
+		@Repository:  (https://github.com/TanvirUthsho/source-theme-vscode)
 		@Since: July 3, 2021 - present
         *************************/
     "tokenColors": [
@@ -1225,6 +1225,6 @@
         "welcomePage.buttonBackground": "#193549",
         "welcomePage.buttonHoverBackground": "#0d3a58",
         "widget.shadow": "#f7206bab"
-        
+
     }
 }
