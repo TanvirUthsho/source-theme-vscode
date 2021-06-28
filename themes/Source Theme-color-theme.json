@@ -1159,7 +1159,7 @@
 
 
         /*************************=  PANEL  =*************************/
-        "panel.background": "#190949ab",
+        "panel.background": "#110633ab",
         "panel.border": "#ff4800",
         "panelTitle.activeBorder": "#00f3d3",
         "panelTitle.activeForeground": "#eeff00",
