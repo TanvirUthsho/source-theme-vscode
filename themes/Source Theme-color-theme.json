@@ -24,35 +24,35 @@
             }
         },
         {
-			"name": "Class, Support",
-			"scope": [
-				"entity.name",
-				"support.type",
-				"support.class",
-				"support.orther.namespace.use.php",
-				"meta.use.php",
-				"support.other.namespace.php",
-				"markup.changed.git_gutter",
-				"support.type.sys-types"
-			],
-			"settings": {
-				"foreground": "#FFCB6B"
-			}
-		},
-          {
+            "name": "Class, Support",
+            "scope": [
+                "entity.name",
+                "support.type",
+                "support.class",
+                "support.orther.namespace.use.php",
+                "meta.use.php",
+                "support.other.namespace.php",
+                "markup.changed.git_gutter",
+                "support.type.sys-types"
+            ],
+            "settings": {
+                "foreground": "#FFCB6B"
+            }
+        },
+        {
             "name": "HTML or XML tag",
             "scope": "entity.name.tag",
             "settings": {
-              "foreground": "#72f1b8"
+                "foreground": "#72f1b8"
             }
-          },
-          {
+        },
+        {
             "name": "HTML or XML tag brackets",
             "scope": ["punctuation.definition.tag"],
             "settings": {
-              "foreground": "#36f9f6"
+                "foreground": "#36f9f6"
             }
-          },
+        },
         // {
         //     "name": "Meta",
         //     "scope": "meta",
@@ -63,14 +63,12 @@
         // {
 
         {
-			"name": "String",
-			"scope": [
-				"string",
-			],
-			"settings": {
-				"foreground": "#eeff00"
-			}
-		},
+            "name": "String",
+            "scope": ["string"],
+            "settings": {
+                "foreground": "#eeff00"
+            }
+        },
         {
             "name": "Number",
             "scope": "constant.numeric",
@@ -286,9 +284,9 @@
             "name": "Color",
             "scope": "constant.other.color",
             "settings": {
-              "foreground": "#f5aea8"
+                "foreground": "#f5aea8"
             }
-          },
+        },
         {
             "name": "Tag attribute",
             "scope": ["source"],
@@ -297,18 +295,18 @@
             }
         },
         {
-			"name": "Function, Special Method",
-			"scope": [
-				"entity.name.function",
+            "name": "Function, Special Method",
+            "scope": [
+                "entity.name.function",
 
-				"variable.function",
-				"support.function",
-				"keyword.other.special-method"
-			],
-			"settings": {
-				"foreground": "#00ffff"
-			}
-		},
+                "variable.function",
+                "support.function",
+                "keyword.other.special-method"
+            ],
+            "settings": {
+                "foreground": "#00ffff"
+            }
+        },
         {
             "name": "Library constant",
             "scope": "support.constant",
@@ -1037,9 +1035,9 @@
 
         // ======menu==========
         "menu.background": "#010033c7",
-         // "menu.background": "#151442",
-		"menu.selectionBackground": "#fd009c56",
-		"menu.border":"#bbbbbb46",
+        // "menu.background": "#151442",
+        "menu.selectionBackground": "#fd009c56",
+        "menu.border": "#bbbbbb46",
         "menu.foreground": "#ffffff",
         "menu.selectionForeground": "#dbf303",
         "menu.selectionBorder": "#ad366e",
@@ -1061,6 +1059,7 @@
         "scrollbarSlider.background": "#94fff693",
         "scrollbarSlider.activeBackground": "#e92b2b98",
         "scrollbarSlider.hoverBackground": "#e95b5ba2",
+
         //Side Bar
         "sideBar.background": "#011b31",
         "sideBar.foreground": "#F4F4FF",
@@ -1073,10 +1072,12 @@
         //*************************  ACTIVITY BAR  *************************/
         "activityBarBadge.background": "#ffd900",
         "activityBar.foreground": "#00ffff",
-        "activityBar.inactiveForeground": "#ffffff6c",
+        "activityBar.inactiveForeground": "#000000",
+        // "activityBar.inactiveForeground": "#ffffff6c",
         "activityBar.activeBackground": "#190237",
         "activityBarBadge.foreground": "#080808",
-        "activityBar.background": "#0b1f44",
+        // "activityBar.background": "#0b1f44",
+        "activityBar.background": "#cafbed",
         "activityBar.activeBorder": "#ff0080",
         "activityBar.activeFocusBorder": "#ffd900",
 
@@ -1146,26 +1147,24 @@
         "peekViewTitle.background": "#372dc9",
         "peekViewTitleDescription.foreground": "#348bee",
 
+        /*************************  MINIMAP  *************************/
 
-		/*************************  MINIMAP  *************************/
-
-		"minimap.selectionHighlight":"#2600277c",
-		"minimapSlider.hoverBackground":"#08f7ff3a",
-		"minimapGutter.deletedBackground":"#ff0000",
-		"minimapGutter.addedBackground":"#00ff55",
-		"minimapGutter.modifiedBackground":"#eeff00",
-		"minimap.findMatchHighlight":"#00ffff",
-		"minimapSlider.activeBackground":"#ffffffbb",
-
+        "minimap.selectionHighlight": "#2600277c",
+        "minimapSlider.hoverBackground": "#08f7ff3a",
+        "minimapGutter.deletedBackground": "#ff0000",
+        "minimapGutter.addedBackground": "#00ff55",
+        "minimapGutter.modifiedBackground": "#eeff00",
+        "minimap.findMatchHighlight": "#00ffff",
+        "minimapSlider.activeBackground": "#ffffffbb",
 
         /*************************=  PANEL  =*************************/
+
         "panel.background": "#110633ab",
         "panel.border": "#ff4800",
         "panelTitle.activeBorder": "#00f3d3",
         "panelTitle.activeForeground": "#eeff00",
         "panelTitle.inactiveForeground": "#ffffff",
-		"panel.dropBorder":"#ff0000",
-
+        "panel.dropBorder": "#ff0000",
 
         // ======= workbench: terminal =========
         "terminal.ansiBlack": "#000000",
@@ -1218,6 +1217,5 @@
         "welcomePage.buttonBackground": "#193549",
         "welcomePage.buttonHoverBackground": "#0d3a58",
         "widget.shadow": "#f7206bab"
-
     }
 }
