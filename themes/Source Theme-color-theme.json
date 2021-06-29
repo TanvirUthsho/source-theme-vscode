@@ -1072,12 +1072,14 @@
         //*************************  ACTIVITY BAR  *************************/
         "activityBarBadge.background": "#ffd900",
         "activityBar.foreground": "#00ffff",
-        "activityBar.inactiveForeground": "#000000",
-        // "activityBar.inactiveForeground": "#ffffff6c",
-        "activityBar.activeBackground": "#190237",
         "activityBarBadge.foreground": "#080808",
-        // "activityBar.background": "#0b1f44",
+        //     ========Beta=========
         "activityBar.background": "#cafbed",
+        "activityBar.inactiveForeground": "#ff0080",
+        // "activityBar.background": "#0b1f44",
+        // "activityBar.inactiveForeground": "#ffffff6c",
+        //    ========Beta=========
+        "activityBar.activeBackground": "#190237",
         "activityBar.activeBorder": "#ff0080",
         "activityBar.activeFocusBorder": "#ffd900",
 
