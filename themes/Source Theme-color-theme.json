@@ -966,7 +966,8 @@
         "editorIndentGuide.activeBackground": "#C792EA",
 
         // current line styles
-        "editor.lineHighlightBackground": "#281e25",
+        "editor.lineHighlightBackground": "#7bb2f037",
+        // "editor.lineHighlightBorder": "#ffd0003d",
         "editor.rangeHighlightBackground": "#1F4662",
 
         // Error
