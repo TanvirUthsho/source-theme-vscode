@@ -1,5 +1,5 @@
 <div align="center">
-<a align="center" href="https:// "><img align="center" src="images/all languages.gif" /></a>
+<!-- <a align="center" href="https:// "><img align="center" src="images/all languages.gif" /></a> -->
 
 <br>
 <br>

@@ -1062,7 +1062,7 @@
         "scrollbarSlider.hoverBackground": "#e95b5ba2",
 
         //Side Bar
-        "sideBar.background": "#011b31",
+        "sideBar.background": "#011c37",
         "sideBar.foreground": "#F4F4FF",
         "sideBarSectionHeader.background": "#01001d",
         "sideBarSectionHeader.foreground": "#94fff6",
@@ -1075,8 +1075,9 @@
         "activityBar.foreground": "#00ffff",
         "activityBarBadge.foreground": "#080808",
         //     ========Beta=========
-        "activityBar.background": "#cafbed",
-        "activityBar.inactiveForeground": "#ff0080",
+        "activityBar.background": "#9fc3d3",
+        // "activityBar.background": "#cafbed",
+        "activityBar.inactiveForeground": "#0a8464",
         // "activityBar.background": "#0b1f44",
         // "activityBar.inactiveForeground": "#ffffff6c",
         //    ========Beta=========
