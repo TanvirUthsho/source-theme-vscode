@@ -1014,7 +1014,8 @@
         "editorGroupHeader.noTabsBackground": "#03163f",
         "editorGroupHeader.tabsBackground": "#030d22",
 
-        // list
+        //list
+        "dropdown.listBackground": "#2a2139",
         "list.activeSelectionBackground": "#e6117c6e",
         "list.activeSelectionForeground": "#ffffff",
         "list.dropBackground": "#322EA6",
@@ -1064,6 +1065,7 @@
         //Side Bar
         "sideBar.background": "#011c37",
         "sideBar.foreground": "#F4F4FF",
+        "sideBar.border": "#6e0483d7",
         "sideBarSectionHeader.background": "#01001d",
         "sideBarSectionHeader.foreground": "#94fff6",
 
@@ -1086,15 +1088,15 @@
         "activityBar.activeFocusBorder": "#ffd900",
 
         // Status Bar
-        "statusBar.background": "#15232d",
+        "statusBar.background": "#1e012c",
+		"statusBar.foreground": "#e2dbdb83",
         "statusBar.border": "#ff0080",
-        "statusBar.foreground": "#F4F4FF",
         "statusBar.noFolderBackground": "#020137",
         "statusBarItem.hoverBackground": "#ad366ecf",
         "statusBarItem.activeBackground": "#a9c025",
         "statusBarItem.remoteBackground": "#fbff00",
         "statusBarItem.remoteForeground": "#000000",
-        "statusBar.debuggingBackground": "#01001d",
+        "statusBar.debuggingBackground": "#200912",
         "statusBar.debuggingBorder": "#ffc600",
         "statusBar.debuggingForeground": "#ffc600",
 
