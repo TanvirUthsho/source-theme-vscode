@@ -1,5 +1,5 @@
 <div align="center">
-<!-- <a align="center" href="https:// "><img align="center" src="images/all languages.gif" /></a> -->
+<a align="center" href="https:// "><img align="center" src="images/bg-languages.gif" /></a>
 
 <br>
 <br>
@@ -9,6 +9,10 @@
 <a href="https://marketplace.visualstudio.com/items?itemName=THUthsho.source-theme#review-details"><img src="https://vsmarketplacebadge.apphb.com/rating-star/THUthsho.source-theme.svg?style=for-the-badge&colorA=FBBD30&colorB=F2AA08"/></a> <a href="https://marketplace.visualstudio.com/items?itemName=THUthsho.source-theme"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/THUthsho.source-theme.svg?style=for-the-badge&colorA=5DDB61&colorB=4BC74F&label=DOWNLOADS"/></a> <br>
 <p align="center">
  <a href="https://"><img src="https://img.shields.io/badge/%20 Made by-Uthsho%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
+
+ <br>
+
+ To Contact Me: tanvir.h.uthsho@gmail.com
  </p>
 
 </div>
@@ -19,10 +23,12 @@
     <tr>
         <td align='left' width='100%' colspan='2'>
             <strong><code>Source Theme</code></strong><br />
-            A professional theme with hand-picked & bold shades of purple for your VS Code editor and terminal. One of the excellent most downloaded and top rated VSCode Themes on the marketplace.
+            A professional theme with hand-picked & bold colorful for your VS Code editor and terminal. I have created this theme in combination with other good themes in the marketplace. I think this theme is the best and unique among the best themes in Marketplace.
         </td>
     </tr>
-    <tr><td><sup> Follow Uthsho's on GitHub <a href='https://github.com/TanvirUthsho'>@TanvirUthsho</a> —   Say Hi on Twitter <a href="https://">@Uthsho</a></sup></td><td  align='center'> <a  target="_blank" href='https://uthsho3.com/'>👋 </a></td></tr>
+    <tr><td><sup> Follow Uthsho's on GitHub <a href='https://github.com/TanvirUthsho'>@TanvirUthsho</a>
+     <!-- —   Say Hi on Twitter <a href="https://">@Uthsho</a></sup></td><td  align='center'> <a  target="_blank" href='https://uthsho3.com/'>👋 </a> -->
+     </td></tr>
 </table>
 
 <div align="center">
@@ -43,7 +49,7 @@
 3. Click **Install** to install it.
 4. Click **Reload** to reload your editor.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Source Theme**.
-6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=uthsho.source-theme#review-details) like 110+ awesome devs to appreciate the effort behind this theme.
+6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=THUthsho.source-theme&ssr=false#review-details) like 110+ awesome devs to appreciate the effort behind this theme.
 
 <br>
 
@@ -56,8 +62,87 @@
 3. Click **Install** to install it.
 4. Click **Reload** to reload the your editor.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Source theme**.
-6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) like 110+ awesome devs to appreciate the effort on this theme.
+6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=THUthsho.source-theme&ssr=false#review-details) like 110+ awesome devs to appreciate the effort on this theme.
 
+<br>
+
+## Screenshots: Source Theme
+
+![Screenshots](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/8_screenshots.png)
+
+<div align="center">
+
+<br>
+
+![JavaScript Syntax](https://img.shields.io/badge/SYNTAX-JavaScript-gray.svg?colorB=5532F3)
+
+<br>
+<img src="images/js.png">
+
+<br>
+
+<img src="images/hr.png">
+
+<br>
+<br>
+<br>
+
+![HTML Syntax](https://img.shields.io/badge/SYNTAX-HTML-gray.svg?colorB=5532F3)
+<img src="images/html.png">
+
+<br>
+
+<img src="images/hr.png">
+<br><br><br>
+
+![HTML Syntax](https://img.shields.io/badge/SYNTAX-css-gray.svg?colorB=5532F3)
+<img src="images/css.png">
+
+<br>
+
+<img src="images/hr.png">
+<br><br><br>
+
+![Markdown Syntax](https://img.shields.io/badge/SYNTAX-Markdown-gray.svg?colorB=5532F3)
+
+<img src="images/markdown.png">
+
+<br>
+
+<img src="images/hr.png">
+
+<br>
+<br>
+<br>
+
+
+
+![PHP Syntax](https://img.shields.io/badge/SYNTAX-PHP-gray.svg?colorB=5532F3)
+
+<img src="images/php.png">
+
+<br>
+
+<img src="images/hr.png">
+
+<br><br>
+
+![Python Syntax](https://img.shields.io/badge/SYNTAX-Python-gray.svg?colorB=5532F3)
+
+<img src="images/python.png">
+<img src="images/hr.png">
+
+![Pug Syntax](https://img.shields.io/badge/SYNTAX-Pug-gray.svg?colorB=5532F3)
+<img src="images/pug.png">
+
+<img src="images/hr.png">
+
+<br><br>
+
+![Go Syntax](https://img.shields.io/badge/SYNTAX-Go-gray.svg?colorB=5532F3)
+<img src="images/go.png">
+</div>
+<br>
 <br>
 
 ![Tips](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/6_custom_settings.png)
@@ -125,75 +210,6 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 
 <br>
 
-![Screenshots](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/8_screenshots.png)
-
-## Screenshots: Source Theme
-<div align="center">
-
-![Markdown Syntax](https://img.shields.io/badge/SYNTAX-Markdown-gray.svg?colorB=5532F3)
-
-<img src="images/readme.png">
-
-<br>
-
-<img src="images/hr.png">
-
-<br>
-<br>
-<br>
-
-![JavaScript Syntax](https://img.shields.io/badge/SYNTAX-JavaScript-gray.svg?colorB=5532F3)
-<img src="images/js.png">
-
-<br>
-
-<img src="images/hr.png">
-
-<br>
-<br>
-<br>
-
-![PHP Syntax](https://img.shields.io/badge/SYNTAX-PHP-gray.svg?colorB=5532F3)
-<img src="images/php.png">
-
-<br>
-
-<img src="images/hr.png">
-
-<br>
-
-![HTML Syntax](https://img.shields.io/badge/SYNTAX-HTML-gray.svg?colorB=5532F3)
-<img src="images/html.png">
-
-<br>
-
-<img src="images/hr.png">
-<br><br><br>
-
-![Pug Syntax](https://img.shields.io/badge/SYNTAX-Pug-gray.svg?colorB=5532F3)
-<img src="images/pug.png">
-
-<br>
-
-<img src="images/hr.png">
-
-<br><br><br>
-
-![Python Syntax](https://img.shields.io/badge/SYNTAX-Python-gray.svg?colorB=5532F3)
-<img src="images/python.png">
-
-<br>
-
-<img src="images/hr.png">
-
-<br><br><br>
-
-![Go Syntax](https://img.shields.io/badge/SYNTAX-Go-gray.svg?colorB=5532F3)
-<img src="images/go.png">
-
-</div>
-
-<br>
 
 <img src="images/9_put_sop.png">
 
@@ -208,7 +224,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 
 #### **Hello, I am a [Engineer](https://TheDevCouple.com)**!
 
-I ([Tanvir Hossain Uthsho](https://twitter.com/t.h.uthsho/)).
+I am [Tanvir Hossain Uthsho](https://twitter.com/t.h.uthsho/).
 Uthsho means Source. That's why I named My theme Source Theme. I am a Full Stack Web/JS Developer, OSS Dev Advocate, and a core developer at WordPress.
 <!-- My significant other ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and she's also a WP Core Contributor. Together with our [team](https://TheDevCouple.com/team), we run the [Dev Couple](https://TheDevCouple.com/) blog. -->
 
@@ -221,7 +237,7 @@ Uthsho means Source. That's why I named My theme Source Theme. I am a Full Stack
 
 ## License & Attribution
 
-**Licensed** as MIT ⓒ [Uthsho Hossian](https://uthshohossain.com/).
+**Licensed** as Apache ⓒ [Uthsho Hossian](https://uthshohossain.com/).
 
 Thanks to VSCode team at Microsoft for creating such an awesome code editor. Also to the creator of other high contrast themes that served as an inspiration. This theme takes inspiration from many VSCode themes including but not limited to Cobalt themes by Roberto Achar, Ayu, Palenight themes, Dracula themes, etc. VSCode and Icons8 for the icons in this readme.
 

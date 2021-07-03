@@ -790,7 +790,7 @@
                 "meta.image.inline.markdown"
             ],
             "settings": {
-                "foreground": "#ff76f7",
+                "foreground": "#F78C6C",
                 "fontStyle": ""
             }
         },
@@ -958,15 +958,15 @@
         "editor.findMatchHighlightBackground": "#960000b9",
         "editor.hoverHighlightBackground": "#004696",
         "editor.wordHighlightBackground": "#47008ad5",
-        "editor.wordHighlightStrongBackground": "#440083d5",
-        // "editor.lineHighlightBackground": "#5e284d",
+        "editor.wordHighlightStrongBackground": "#048300d5",
         "editorRuler.foreground": "#11215e",
         // "editorIndentGuide.background": "#030d22",
         "editorIndentGuide.background": "#0e2c45",
         "editorIndentGuide.activeBackground": "#C792EA",
 
         // current line styles
-        "editor.lineHighlightBackground": "#7bb2f037",
+        "editor.lineHighlightBackground": "#5e284d87",
+        // "editor.lineHighlightBackground": "#7bb2f033",
         // "editor.lineHighlightBorder": "#ffd0003d",
         "editor.rangeHighlightBackground": "#1F4662",
 
@@ -1057,9 +1057,9 @@
 
         // Scrollbar Control
         "scrollbar.shadow": "#ff25edf1",
-        "scrollbarSlider.background": "#94fff693",
-        "scrollbarSlider.activeBackground": "#e92b2b98",
-        "scrollbarSlider.hoverBackground": "#e95b5ba2",
+        "scrollbarSlider.background": "#94fff659",
+        "scrollbarSlider.activeBackground": "#ff008069",
+        "scrollbarSlider.hoverBackground": "#ff00807c",
 
         //Side Bar
         "sideBar.background": "#011c37",
