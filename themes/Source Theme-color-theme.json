@@ -1,7 +1,6 @@
 {
     "name": "Source Theme",
     "type": "dark",
-    /*************************  I ❤ OpenSource  *************************/
 
     /*************************
 		@Author: Uthsho
@@ -66,7 +65,7 @@
             "name": "String",
             "scope": ["string"],
             "settings": {
-                "foreground": "#eeff00"
+                "foreground": "#ebf744"
             }
         },
         {
@@ -265,7 +264,7 @@
             "name": "Tag attribute",
             "scope": "entity.other.attribute-name.class",
             "settings": {
-                "foreground": "#EEFF00",
+                "foreground": "#f1fc59",
                 "fontStyle": ""
             }
         },
@@ -999,10 +998,24 @@
         "focusBorder": "#0d3a58",
 
         // Editor Widget Colors
-        "editorWidget.background": "#15232d",
+        "editorWidget.background":  "#010033c7",
         "editorWidget.border": "#0d3a58",
-        "editorHoverWidget.background": "#222858",
-        "editorHoverWidget.border": "#2d324e",
+        "editorHoverWidget.background": "#010033c7",
+        "editorHoverWidget.border": "#ad366e",
+
+        // ======menu==========
+        "menu.background": "#010033c7",
+        // "menu.background": "#151442",
+        "menu.selectionBackground": "#fd009c56",
+        "menu.border": "#bbbbbb46",
+        "menu.foreground": "#ffffff",
+        "menu.selectionForeground": "#dbf303",
+        "menu.selectionBorder": "#ad366e",
+        "menu.separatorBackground": "#ffff",
+        "menubar.selectionBackground": "#ad366ecf",
+        "menubar.selectionForeground": "#fff",
+        "menubar.selectionBorder": "#ad366e",
+
         // editorWarning
         "editorWarning.border": "#ffffff00",
         "editorWarning.foreground": "#51FFC5",
@@ -1035,18 +1048,6 @@
         "listFilterWidget.outline": "#01001d",
         "listFilterWidget.noMatchesOutline": "#ff0e1262",
 
-        // ======menu==========
-        "menu.background": "#010033c7",
-        // "menu.background": "#151442",
-        "menu.selectionBackground": "#fd009c56",
-        "menu.border": "#bbbbbb46",
-        "menu.foreground": "#ffffff",
-        "menu.selectionForeground": "#dbf303",
-        "menu.selectionBorder": "#ad366e",
-        "menu.separatorBackground": "#ffff",
-        "menubar.selectionBackground": "#ad366ecf",
-        "menubar.selectionForeground": "#fff",
-        "menubar.selectionBorder": "#ad366e",
         // merge
         "merge.border": "#ffffff00",
         "merge.commonContentBackground": "#c97d0c",
@@ -1089,7 +1090,7 @@
 
         // Status Bar
         "statusBar.background": "#1e012c",
-		"statusBar.foreground": "#e2dbdb83",
+		"statusBar.foreground": "#ffffff83",
         "statusBar.border": "#ff0080",
         "statusBar.noFolderBackground": "#020137",
         "statusBarItem.hoverBackground": "#ad366ecf",

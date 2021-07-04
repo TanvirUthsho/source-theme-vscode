@@ -75,7 +75,6 @@
 <br>
 
 ![JavaScript Syntax](https://img.shields.io/badge/SYNTAX-JavaScript-gray.svg?colorB=5532F3)
-
 <br>
 <img src="images/js.png">
 
@@ -104,21 +103,16 @@
 <br><br><br>
 
 ![Markdown Syntax](https://img.shields.io/badge/SYNTAX-Markdown-gray.svg?colorB=5532F3)
-
 <img src="images/markdown.png">
-
 <br>
 
 <img src="images/hr.png">
-
 <br>
 <br>
 <br>
-
-
 
 ![PHP Syntax](https://img.shields.io/badge/SYNTAX-PHP-gray.svg?colorB=5532F3)
-
+<br>
 <img src="images/php.png">
 
 <br>
@@ -128,21 +122,22 @@
 <br><br>
 
 ![Python Syntax](https://img.shields.io/badge/SYNTAX-Python-gray.svg?colorB=5532F3)
-
 <img src="images/python.png">
+<br><br>
 <img src="images/hr.png">
+<br><br>
+
 
 ![Pug Syntax](https://img.shields.io/badge/SYNTAX-Pug-gray.svg?colorB=5532F3)
 <img src="images/pug.png">
 
+<br>
 <img src="images/hr.png">
 
 <br><br>
-
 ![Go Syntax](https://img.shields.io/badge/SYNTAX-Go-gray.svg?colorB=5532F3)
 <img src="images/go.png">
 </div>
-<br>
 <br>
 
 ![Tips](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/6_custom_settings.png)
@@ -206,7 +201,7 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 
 ## Frequently Asked Questions
 
-- 👌 [Source Theme VSCode Theme With Italics Mix](https://github.com/TanvirUthsho/source-theme-vscode)
+- 👌 [Source Theme VSCode Theme With Italic Mixed](https://github.com/TanvirUthsho/source-theme-vscode)
 
 <br>
 
@@ -226,10 +221,9 @@ _You can also use a custom [VSCode Source theme icon](https://raw.githubusercont
 
 I am [Tanvir Hossain Uthsho](https://twitter.com/t.h.uthsho/).
 Uthsho means Source. That's why I named My theme Source Theme. I am a Full Stack Web/JS Developer, OSS Dev Advocate, and a core developer at WordPress.
-<!-- My significant other ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and she's also a WP Core Contributor. Together with our [team](https://TheDevCouple.com/team), we run the [Dev Couple](https://TheDevCouple.com/) blog. -->
 
-> #### [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568)
-> If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you. [Support here →](https://pay.paddle.com/checkout/515568)
+<!-- > #### [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568)
+> If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you. [Support here →](https://pay.paddle.com/checkout/515568) -->
 
 <br>
 
