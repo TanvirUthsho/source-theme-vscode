@@ -1166,7 +1166,7 @@
 
         /*************************=  PANEL  =*************************/
 
-        "panel.background": "#200d5cab",
+        "panel.background": "#072F5F",
         "panel.border": "#ff4800",
         "panelTitle.activeBorder": "#00f3d3",
         "panelTitle.activeForeground": "#eeff00",
