@@ -968,7 +968,7 @@
         // "editor.lineHighlightBackground": "#7bb2f033",
         // "editor.lineHighlightBorder": "#ffd0003d",
         "editor.rangeHighlightBackground": "#1F4662",
-
+       
         // Error
         "editorError.foreground": "#fffb00",
         "editorInfo.foreground": "#af21e7",
