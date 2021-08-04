@@ -968,7 +968,7 @@
         // "editor.lineHighlightBackground": "#7bb2f033",
         // "editor.lineHighlightBorder": "#ffd0003d",
         "editor.rangeHighlightBackground": "#1F4662",
-       
+
         // Error
         "editorError.foreground": "#fffb00",
         "editorInfo.foreground": "#af21e7",
@@ -1080,7 +1080,7 @@
         //     ========Beta=========
         "activityBar.background": "#9fc3d3",
         // "activityBar.background": "#cafbed",
-        "activityBar.inactiveForeground": "#0a8464",
+        "activityBar.inactiveForeground": "#046b58",
         // "activityBar.background": "#0b1f44",
         // "activityBar.inactiveForeground": "#ffffff6c",
         //    ========Beta=========
