@@ -257,7 +257,7 @@
             "scope": "entity.other.attribute-name",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#FF0077"
+                "foreground": "#FF8B39"
             }
         },
         {
@@ -275,7 +275,7 @@
                 "meta.selector"
             ],
             "settings": {
-                "foreground": "#ee774f",
+                "foreground": "#FF8B39",
                 "fontStyle": "italic bold"
             }
         },
@@ -932,6 +932,7 @@
         // progressBar
         "progressBar.background": "#ffc600",
 
+        
         // *******************=== Editor ===********************
 
         //========= Night Owl/Witer is Coming========
@@ -944,8 +945,8 @@
         // "editor.background": "#14051f",//"#18173E",
 
         // =========MY=================
-        "editor.background": "#00002c",
-        // "editor.background": "#001f33",
+        // "editor.background": "#00002c",
+        "editor.background": "#001f33",
 
         "editor.foreground": "#fff",
         "editorLineNumber.foreground": "#a762a780",
