@@ -42,7 +42,7 @@
             "name": "HTML or XML tag",
             "scope": "entity.name.tag",
             "settings": {
-                "foreground": "#72f1b8"
+                "foreground": "#51FFC5"
             }
         },
         {
@@ -86,7 +86,7 @@
             "name": "User-defined constant",
             "scope": ["constant.character", "constant.other"],
             "settings": {
-                "foreground": "#ff99e6"
+                "foreground": "#ff73dc"
             }
         },
         {
@@ -209,7 +209,7 @@
             "scope": ["keyword.operator.key.php"],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#72f1b8"
+                "foreground": "#51FFC5"
             }
         },
 
@@ -276,7 +276,7 @@
             ],
             "settings": {
                 "foreground": "#FF8B39",
-                "fontStyle": "italic bold"
+
             }
         },
         {
@@ -290,7 +290,7 @@
             "name": "Tag attribute",
             "scope": ["source"],
             "settings": {
-                "foreground": "#ee774f"
+                "foreground": "#EE774F"
             }
         },
         {
@@ -389,8 +389,8 @@
         {
             "scope": "entity.name.filename.find-in-files",
             "settings": {
-                "foreground": "#ffdf52"
-                // "foreground": "#51FFC5"
+                // "foreground": "#ffdf52"
+                "foreground": "#51FFC5"
             }
         },
         {
@@ -416,7 +416,7 @@
                 "constant.numeric"
             ],
             "settings": {
-                "foreground": "#FF00F2"
+                "foreground": "#FF99E6"
             }
         },
 
@@ -477,7 +477,7 @@
             "name": "Function argument",
             "scope": ["keyword.other.unit"],
             "settings": {
-                "foreground": "#C800BE"
+                "foreground": "#ff37cd"
             }
         },
         // =======
