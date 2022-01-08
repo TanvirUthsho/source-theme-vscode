@@ -65,7 +65,7 @@
             "name": "String",
             "scope": ["string"],
             "settings": {
-                "foreground": "#ebf744"
+                "foreground": "#F1FC59"
             }
         },
         {
@@ -932,7 +932,7 @@
         // progressBar
         "progressBar.background": "#ffc600",
 
-        
+
         // *******************=== Editor ===********************
 
         //========= Night Owl/Witer is Coming========
