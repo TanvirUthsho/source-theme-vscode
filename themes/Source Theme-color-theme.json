@@ -125,7 +125,7 @@
             "scope": "support.type.vendored.property-name",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#f699cd"
+                "foreground": "#FF8B39"
             }
         },
 
