@@ -262,7 +262,8 @@
         },
         {
             "name": "Tag attribute",
-            "scope": "entity.other.attribute-name.class",
+            "scope": ["entity.other.attribute-name.class",
+            "entity.other.attribute-name.id"],
             "settings": {
                 "foreground": "#f1fc59",
                 "fontStyle": ""
@@ -290,7 +291,7 @@
             "name": "Tag attribute",
             "scope": ["source"],
             "settings": {
-                "foreground": "#EE774F"
+                "foreground": "#72F1B8"
             }
         },
         {
@@ -404,8 +405,8 @@
             "name": "keyword.other",
             "scope": "keyword.other.important",
             "settings": {
-                "foreground": "#ff3d67",
-                "fontStyle": "italic bold"
+                "foreground": "#fc456c",
+                "fontStyle": "bold"
             }
         },
         {
