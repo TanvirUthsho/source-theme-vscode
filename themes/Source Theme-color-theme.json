@@ -798,7 +798,7 @@
             "name": "Markdown bold/italic",
             "scope": ["markup.bold.markdown", "markup.italic.markdown"],
             "settings": {
-                "foreground": "#51FFC5"
+                "foreground": "#F49EFF"
             }
         },
         {
@@ -923,7 +923,8 @@
         "tab.activeBackground": "#193549",
         "tab.activeForeground": "#fff",
         "tab.border": "#15232D",
-        "tab.activeBorder": "#ffc600",
+        // "tab.activeBorder": "#ffc600",
+        "tab.activeBorderTop": "#EEFF00",
         "tab.inactiveBackground": "#122738",
         "tab.inactiveForeground": "#aaa",
         "tab.unfocusedActiveForeground": "#aaa",
@@ -948,6 +949,7 @@
         // =========MY=================
         // "editor.background": "#00002c",
         "editor.background": "#001f33",
+
 
         "editor.foreground": "#fff",
         "editorLineNumber.foreground": "#a762a780",
