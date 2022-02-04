@@ -11,9 +11,8 @@
 <p align="center">
  <a href="https://"><img src="https://img.shields.io/badge/%20 Made by-Uthsho%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
 
- <br>
-
-To Contact Me: theuthso@gmail.com
+ <br><h3>To Conatct me:</h3>
+<a href="theuthso.com"><h3>theuthso@gmail.com<h3></a>
 
  </p>
 
@@ -35,7 +34,7 @@ To Contact Me: theuthso@gmail.com
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/TanvirUthsho/source-theme-vscode.svg?style=social&label=Stars)](https://github.com/TanvirUthsho/source-theme-vscode/stargazers) [![GitHub followers](https://img.shields.io/github/followers/TanvirUthsho.svg?style=social&label=Follow)](https://github.com/TanvirUthsho?tab=followers) [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@T.H.Uthsho)](https://twitter.com/t.h.uthsho/)
+[![GitHub stars](https://img.shields.io/github/stars/TanvirUthsho/source-theme-vscode.svg?style=social&label=Stars)](https://github.com/TanvirUthsho/source-theme-vscode/stargazers) [![GitHub followers](https://img.shields.io/github/followers/TanvirUthsho.svg?style=social&label=Follow)](https://github.com/TanvirUthsho?tab=followers) [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@TheUthso)](https://twitter.com/TheUthso)
 
 </div>
 
