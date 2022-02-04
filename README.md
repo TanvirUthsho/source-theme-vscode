@@ -126,13 +126,13 @@
 <img src="images/python.png">
 <br><br>
 <img src="images/hr.png">
-<br><br>
+<!-- <br><br> -->
 
-![Pug Syntax](https://img.shields.io/badge/SYNTAX-Pug-gray.svg?colorB=5532F3)
+<!-- ![Pug Syntax](https://img.shields.io/badge/SYNTAX-Pug-gray.svg?colorB=5532F3)
 <img src="images/pug.png">
 
 <br>
-<img src="images/hr.png">
+<img src="images/hr.png"> -->
 
 <br><br>
 ![Go Syntax](https://img.shields.io/badge/SYNTAX-Go-gray.svg?colorB=5532F3)
@@ -154,7 +154,7 @@ This theme works best with the following settings. Especially if you have the Op
     "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
     // OR
     //"editor.fontFamily":"Victor Mono"
-    "editor.fontSize": 17,
+    "editor.fontSize": 15,
     "editor.lineHeight": 25,
     "editor.letterSpacing": 0.5,
     "files.trimTrailingWhitespace": true,

@@ -299,13 +299,13 @@
             "name": "Function, Special Method",
             "scope": [
                 "entity.name.function",
-
+                "entity.name.function.js",
                 "variable.function",
                 "support.function",
                 "keyword.other.special-method"
             ],
             "settings": {
-                "foreground": "#00ffff"
+                "foreground": "#FF628C"
             }
         },
         {
@@ -631,7 +631,7 @@
             "name": "support.function.builtin.python",
             "scope": "support.function.builtin.python",
             "settings": {
-                "foreground": "#9EFFFF"
+                "foreground": "#FF628C"
             }
         },
         {
@@ -791,7 +791,7 @@
                 "meta.image.inline.markdown"
             ],
             "settings": {
-                "foreground": "#9EFFFF",
+                "foreground": "#9EFFFF", //#F78C6C
                 "fontStyle": ""
             }
         },
@@ -799,7 +799,7 @@
             "name": "Markdown bold/italic",
             "scope": ["markup.bold.markdown", "markup.italic.markdown"],
             "settings": {
-                "foreground": "#F49EFF"
+                "foreground": "#f188ff"
             }
         },
         {
@@ -920,20 +920,10 @@
         "notifications.border": "#ffc600",
         "notificationLink.foreground": "#ffc600",
 
-        // tab
-        "tab.activeBackground": "#193549",
-        "tab.activeForeground": "#fff",
-        "tab.border": "#15232D",
-        "tab.activeBorder": "#ffc600",
-        "tab.inactiveBackground": "#122738",
-        "tab.inactiveForeground": "#aaa",
-        "tab.unfocusedActiveForeground": "#aaa",
-        "tab.unfocusedInactiveForeground": "#aaa",
-
         // progressBar
         "progressBar.background": "#ffc600",
 
-        // *******************=== Editor ===********************
+        // ************************************ === Editor === ****************************************
 
         //========= Night Owl/Witer is Coming========
         // "editor.background": "#011627",
@@ -944,15 +934,14 @@
         // =========Tokyo Hack==============
         // "editor.background": "#14051f",//"#18173E",
 
-        // =========MY=================
-        // "editor.background": "#00002c",
+        // =================================== MY =======================================
         "editor.background": "#122537",
 
         "editor.foreground": "#fff",
         "editorLineNumber.foreground": "#a762a79a",
         "editorLineNumber.activeForeground": "#72f1b8",
         "editorCursor.foreground": "#ffd902",
-        "editor.selectionBackground": "#ff00885d",
+        "editor.selectionBackground": "#ff00884d",
         "editor.selectionHighlightBackground": "#35008b",
         "editor.findMatchBackground": "#ff1c6b63",
         "editor.findMatchHighlightBackground": "#960000b9",
@@ -1023,10 +1012,6 @@
         "editorWhitespace.foreground": "#ffffff1a",
         "errorForeground": "#ffc600",
 
-        // editorGroupHeader
-        "editorGroupHeader.noTabsBackground": "#193549",
-        "editorGroupHeader.tabsBackground": "#1e012c",
-        "editorGroupHeader.tabsBorder": "#15232d",
         //list
         "dropdown.listBackground": "#2a2139",
         "list.activeSelectionBackground": "#e6117c6e",
@@ -1063,29 +1048,45 @@
         "scrollbarSlider.activeBackground": "#ff008069",
         "scrollbarSlider.hoverBackground": "#ff00807c",
 
+        // =============================== editorGroupHeader ============================
+        "editorGroupHeader.noTabsBackground": "#193549",
+        "editorGroupHeader.tabsBackground": "#0c1923",
+        "editorGroupHeader.tabsBorder": "#15232d",
+
+        // ============================= Tab: Just Like Browser ============================
+        "tab.activeBackground": "#20435c",
+        "tab.activeForeground": "#fff",
+        "tab.border": "#15232D",
+        "tab.activeBorder": "#ffc600",
+        "tab.inactiveBackground": "#122738",
+        "tab.inactiveForeground": "#aaa",
+        "tab.unfocusedActiveForeground": "#aaa",
+        "tab.unfocusedInactiveForeground": "#aaa",
+
         // =================================== Side Bar: Where folder are shwoing ================================
-        "sideBar.background": "#0d293f",
+        "sideBar.background": "#0f213e",
+        // "sideBar.background": "#0d293f",
         "sideBar.foreground": "#F4F4FF",
         "sideBar.border": "#6e0483d7",
-        "sideBarSectionHeader.background": "#01001d",
+        "sideBarSectionHeader.background": "#0c1923",
         "sideBarSectionHeader.foreground": "#94fff6",
 
         "icon.foreground": "#e5ff00",
         "settings.headerForeground": "#8ee4f2",
 
         //*************************  ACTIVITY BAR: This is the beside of the side bar *************************
-        "activityBarBadge.background": "#ffd900",
-        "activityBar.foreground": "#00ffff",
-        "activityBarBadge.foreground": "#080808",
         //     ========Beta=========
         "activityBar.background": "#9fc3d3",
         // "activityBar.background": "#cafbed",
-        "activityBar.inactiveForeground": "#046b58",
         // "activityBar.background": "#0b1f44",
-        // "activityBar.inactiveForeground": "#ffffff6c",
+        "activityBar.foreground": "#00ffff",
         //    ========Beta=========
-        "activityBar.activeBackground": "#1e012c",
+        "activityBar.activeBackground": "#0c1923",
         "activityBar.activeBorder": "#ff0080",
+        "activityBarBadge.background": "#ffd900",
+        "activityBarBadge.foreground": "#080808",
+        "activityBar.inactiveForeground": "#046b58",
+        // "activityBar.inactiveForeground": "#ffffff6c",
         "activityBar.activeFocusBorder": "#ffd900",
         "activityBar.border": "#810c99d7",
 
