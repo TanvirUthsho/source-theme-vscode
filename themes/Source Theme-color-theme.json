@@ -1064,7 +1064,7 @@
         "tab.unfocusedInactiveForeground": "#aaa",
 
         // =================================== Side Bar: Where folder are shwoing ================================
-        "sideBar.background": "#0f213e",
+        "sideBar.background": "#0c1c37",
         // "sideBar.background": "#0d293f",
         "sideBar.foreground": "#F4F4FF",
         "sideBar.border": "#6e0483d7",
