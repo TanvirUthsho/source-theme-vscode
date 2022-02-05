@@ -13,8 +13,7 @@
 
  <br><h3>To Conatct me:</h3>
 <a href="theuthso.com"><h3>theuthso@gmail.com<h3></a>
-
- </p>
+</p>
 
 </div>
 
@@ -23,8 +22,13 @@
 <table width='100%' align="center">
     <tr>
         <td align='left' width='100%' colspan='2'>
-            <strong><code>Source Theme</code></strong><br />
-            A professional theme with hand-picked & bold colorful for your VS Code editor and terminal. I have created this theme in combination with other good themes in the marketplace. I think this theme is the best and unique among the best themes in Marketplace.
+            <strong><code>Source Theme</code></strong><br><br>
+            <div align="center">
+
+> *Theme your code editor will love*
+
+</div><br<br>
+            A professional theme with hand-picked & bold colorful for your VS Code editor and terminal. I have created this theme in combination with other good themes in the marketplace. I think this theme is the best and unique among the best themes in Marketplace.<br>
         </td>
     </tr>
     <tr><td><sup> Follow Uthsho's on GitHub <a href='https://github.com/TanvirUthsho'>@TanvirUthsho</a>

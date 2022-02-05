@@ -935,7 +935,8 @@
         // "editor.background": "#14051f",//"#18173E",
 
         // =================================== MY =======================================
-        "editor.background": "#122537",
+        "editor.background": "#102331",
+        // "editor.background": "#001f33",
 
         "editor.foreground": "#fff",
         "editorLineNumber.foreground": "#a762a79a",
@@ -1064,7 +1065,7 @@
         "tab.unfocusedInactiveForeground": "#aaa",
 
         // =================================== Side Bar: Where folder are shwoing ================================
-        "sideBar.background": "#0c1c37",
+        "sideBar.background": "#122736",
         // "sideBar.background": "#0d293f",
         "sideBar.foreground": "#F4F4FF",
         "sideBar.border": "#6e0483d7",
