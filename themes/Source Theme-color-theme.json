@@ -1076,9 +1076,8 @@
 
         //*************************  ACTIVITY BAR: This is the beside of the side bar *************************
         //     ========Beta=========
-        "activityBar.background": "#9fc3d3",
-        // "activityBar.background": "#cafbed",
-        // "activityBar.background": "#0b1f44",
+        // "activityBar.background": "#b9fee7e3",
+        "activityBar.background": "#a0c8da",
         "activityBar.foreground": "#00ffff",
         //    ========Beta=========
         "activityBar.activeBackground": "#0c1923",
