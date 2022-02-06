@@ -943,7 +943,7 @@
 
         // =================================== MY =======================================
         "editor.background": "#102331",
-        // "editor.background": "#001f33",
+        // "editor.background": "#001525",
         // "editor.background": "#162339e6",
 
         "editor.foreground": "#fff",
@@ -1063,7 +1063,7 @@
         "editorGroupHeader.tabsBorder": "#15232d",
 
         // ============================= Tab: Just Like Browser ============================
-        "tab.activeBackground": "#20435c",
+        "tab.activeBackground": "#1d3e55",
         "tab.activeForeground": "#fff",
         "tab.border": "#15232D",
         "tab.activeBorder": "#ffc600",
