@@ -100,8 +100,8 @@
             "name": "Keyword",
             "scope": "keyword",
             "settings": {
-                // "foreground": "#9ffa55"
-                "foreground": "#FF9D00"
+                "foreground": "#FF8B39"
+                // "foreground": "#FF9D00"
             }
         },
         {
@@ -292,7 +292,14 @@
             "name": "Tag attribute",
             "scope": ["source"],
             "settings": {
-                "foreground": "#72F1B8"
+                "foreground": "#51FFC5"
+            }
+        },
+        {
+            "name": "Tag attribute",
+            "scope": ["support.variable.property.js"],
+            "settings": {
+                "foreground": "#F1FC59"
             }
         },
         {
