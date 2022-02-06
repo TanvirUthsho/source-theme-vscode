@@ -937,6 +937,7 @@
         // =================================== MY =======================================
         "editor.background": "#102331",
         // "editor.background": "#001f33",
+        // "editor.background": "#162339e6",
 
         "editor.foreground": "#fff",
         "editorLineNumber.foreground": "#a762a79a",

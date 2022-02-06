@@ -11,8 +11,9 @@
 <p align="center">
  <a href="https://"><img src="https://img.shields.io/badge/%20 Made by-Uthsho%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
 
- <br><h3>To Conatct me:</h3>
+<br><h3>To Conatct me:</h3>
 <a href="theuthso.com"><h3>theuthso@gmail.com<h3></a>
+
 </p>
 
 </div>
@@ -25,7 +26,7 @@
             <strong><code>Source Theme</code></strong><br><br>
             <div align="center">
 
-> *Theme your code editor will love*
+> _Theme your code editor will love_
 
 </div><br<br>
             A professional theme with hand-picked & bold colorful for your VS Code editor and terminal. I have created this theme in combination with other good themes in the marketplace. I think this theme is the best and unique among the best themes in Marketplace.<br>
@@ -130,6 +131,7 @@
 <img src="images/python.png">
 <br><br>
 <img src="images/hr.png">
+
 <!-- <br><br> -->
 
 <!-- ![Pug Syntax](https://img.shields.io/badge/SYNTAX-Pug-gray.svg?colorB=5532F3)
@@ -209,14 +211,16 @@ Uthsho means Source. That's why I named My theme Source Theme. I am a Full Stack
 **Licensed** as Apache ⓒ [Uthsho Hossian](https://uthshohossain.com/).
 
 Thanks to VSCode team at Microsoft for creating such an awesome code editor. Also to the creator of other high contrast themes that served as an inspiration. This theme takes inspiration from many VSCode themes including but not limited to Cobalt themes by Wes Bos, JellyFish, Shades of Purple,
-Zeonica etc.<br>
+Zeonica, Synthwave 84 etc.<br>
 <img src="images/hr.png">
+
 <div align="center">
 _👋 Follow Me_<br><br>
 
 [![General badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheUthso)
 [![General badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100045095227196)
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theuthso)
+
 </div>
 
 <br>
