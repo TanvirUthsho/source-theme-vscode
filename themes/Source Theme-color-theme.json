@@ -911,7 +911,7 @@
         "foreground": "#ffff",
 
         // button
-        "button.background": "#f7206d",
+        "button.background":"#ff0055",
         "button.foreground": "#fff",
         "button.hoverBackground": "#ff9d00",
         // badge
@@ -940,11 +940,13 @@
         // "editor.background": "#262335",
         // =========Tokyo Hack==============
         // "editor.background": "#14051f",//"#18173E",
+        // Learn With Summit
+        // "editor.background": "#122033",
 
         // =================================== MY =======================================
-        "editor.background": "#102331",
-        // "editor.background": "#001525",
-        // "editor.background": "#162339e6",
+        "editor.background": "#00002c",
+        // "editor.background": "#0b182b",
+        // "editor.background": "#102331",
 
         "editor.foreground": "#fff",
         "editorLineNumber.foreground": "#a762a79a",
@@ -1063,21 +1065,23 @@
         "editorGroupHeader.tabsBorder": "#15232d",
 
         // ============================= Tab: Just Like Browser ============================
-        "tab.activeBackground": "#1d3e55",
+        "tab.activeBackground": "#0e2d42",
         "tab.activeForeground": "#fff",
         "tab.border": "#15232D",
-        "tab.activeBorder": "#ffc600",
+        // "tab.activeBorder": "#51FFC5",
+        "tab.activeBorderTop": "#51FFC5",
         "tab.inactiveBackground": "#122738",
         "tab.inactiveForeground": "#aaa",
+        "tab.hoverBorder": "#00000000",
+        "tab.hoverBackground": "#0e2d42",
         "tab.unfocusedActiveForeground": "#aaa",
         "tab.unfocusedInactiveForeground": "#aaa",
 
-        // =================================== Side Bar: Where folder are shwoing ================================
-        "sideBar.background": "#122736",
-        // "sideBar.background": "#0d293f",
-        "sideBar.foreground": "#F4F4FF",
+        // =================================== Side Bar: Where folder are shwoing "sideBarTitle.foreground": "#28002b",
+		"sideBar.background": "#01132e",
+		"sideBar.foreground": "#9b9b9b",
+		"sideBarSectionHeader.background": "#0000007e",
         "sideBar.border": "#6e0483d7",
-        "sideBarSectionHeader.background": "#0c1923",
         "sideBarSectionHeader.foreground": "#94fff6",
 
         "icon.foreground": "#e5ff00",
@@ -1085,18 +1089,20 @@
 
         //*************************  ACTIVITY BAR: This is the beside of the side bar *************************
         //     ========Beta=========
-        // "activityBar.background": "#b9fee7e3",
-        "activityBar.background": "#a0c8da",
-        "activityBar.foreground": "#00ffff",
+
+        "activityBar.background": "#141431",
+        "activityBar.border": "#0e0e1281",
+        // "activityBar.foreground": "#989eb3",
+        "activityBar.inactiveForeground": "#868d9cAA",
+        "activityBar.foreground": "#51FFC5",
+
         //    ========Beta=========
         "activityBar.activeBackground": "#0c1923",
-        "activityBar.activeBorder": "#ff0080",
+        "activityBar.activeBorder": "#51FFC5",
         "activityBarBadge.background": "#ffd900",
         "activityBarBadge.foreground": "#080808",
-        "activityBar.inactiveForeground": "#046b58",
         // "activityBar.inactiveForeground": "#ffffff6c",
         "activityBar.activeFocusBorder": "#ffd900",
-        "activityBar.border": "#810c99d7",
 
         // ********************************** Status Bar: This is bottom *****************************************
         "statusBar.background": "#1e012c",
@@ -1107,9 +1113,10 @@
         "statusBarItem.activeBackground": "#a9c025",
         "statusBarItem.remoteBackground": "#fbff00",
         "statusBarItem.remoteForeground": "#000000",
-        "statusBar.debuggingBackground": "#200912",
-        "statusBar.debuggingBorder": "#ffc600",
-        "statusBar.debuggingForeground": "#ffc600",
+        "statusBar.debuggingBackground":"#FA1F6C",
+		"statusBar.debuggingForeground":"#ffffff",
+        "statusBar.debuggingBorder": "#51FFC5",
+
 
         // Debug Icons.
         "debugIcon.startForeground": "#FAD000",
