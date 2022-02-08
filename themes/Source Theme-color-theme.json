@@ -798,7 +798,7 @@
                 "meta.image.inline.markdown"
             ],
             "settings": {
-                "foreground": "#9EFFFF", //#F78C6C
+                "foreground": "#F78C6C", //#9EFFFF
                 "fontStyle": ""
             }
         },
@@ -1078,7 +1078,7 @@
         "tab.unfocusedInactiveForeground": "#aaa",
 
         // =================================== Side Bar: Where folder are shwoing "sideBarTitle.foreground": "#28002b",
-		"sideBar.background": "#01132e",
+		"sideBar.background": "#1b1b37",
 		"sideBar.foreground": "#9b9b9b",
 		"sideBarSectionHeader.background": "#0000007e",
         "sideBar.border": "#6e0483d7",
@@ -1107,15 +1107,14 @@
         // ********************************** Status Bar: This is bottom *****************************************
         "statusBar.background": "#1e012c",
         "statusBar.foreground": "#ffffff83",
-        "statusBar.border": "#ff0080",
+        "statusBar.border": "#51ffc599",
         "statusBar.noFolderBackground": "#020137",
         "statusBarItem.hoverBackground": "#ad366ecf",
         "statusBarItem.activeBackground": "#a9c025",
         "statusBarItem.remoteBackground": "#fbff00",
         "statusBarItem.remoteForeground": "#000000",
-        "statusBar.debuggingBackground":"#FA1F6C",
-		"statusBar.debuggingForeground":"#ffffff",
-        "statusBar.debuggingBorder": "#51FFC5",
+        "statusBar.debuggingBackground":"#72F1B7",
+		"statusBar.debuggingForeground":"#000000",
 
 
         // Debug Icons.
