@@ -966,9 +966,9 @@
         "editorMarkerNavigationWarning.background": "#ffc600",
         //  =========== Scrollbar Control ================
         "scrollbar.shadow": "#ff25edf1",
-        "scrollbarSlider.background": "#51ffc57e",
-        "scrollbarSlider.activeBackground": "#ff00807c",
-        "scrollbarSlider.hoverBackground": "#ff00807c",
+        "scrollbarSlider.background": "#51ffc559",
+        "scrollbarSlider.activeBackground": "#ff7cbd71",
+        "scrollbarSlider.hoverBackground": "#ff65b277",
 
         // ================================== Tab: Just Like Browser ==================================
         "tab.activeBackground": "#0e2d42",
@@ -1180,7 +1180,7 @@
         "minimapGutter.addedBackground": "#00ff55",
         "minimapGutter.modifiedBackground": "#eeff00",
         "minimap.findMatchHighlight": "#00ffff",
-        "minimapSlider.activeBackground": "#ffffff9c",
+        "minimapSlider.activeBackground": "#ff7cbd71",
 
         //====================================  Terminal ===========================================
 
