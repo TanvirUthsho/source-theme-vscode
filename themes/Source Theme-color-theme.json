@@ -967,7 +967,7 @@
         //  =========== Scrollbar Control ================
         "scrollbar.shadow": "#ff25edf1",
         "scrollbarSlider.background": "#51ffc57e",
-        "scrollbarSlider.activeBackground": "#ff008069",
+        "scrollbarSlider.activeBackground": "#ff00807c",
         "scrollbarSlider.hoverBackground": "#ff00807c",
 
         // ================================== Tab: Just Like Browser ==================================
@@ -1235,6 +1235,6 @@
         "textPreformat.foreground": "#ffc600",
         "textSeparator.foreground": "#0d3a58",
         "walkThrough.embeddedEditorBackground": "#0d3a58",
-        "widget.shadow": "#f7206bab"
+        "widget.shadow": "#ff5185a9"
     }
 }
