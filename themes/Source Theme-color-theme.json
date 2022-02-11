@@ -1107,7 +1107,7 @@
         // ********************************** Status Bar: This is bottom *****************************************
         "statusBar.background": "#1e012c",
         "statusBar.foreground": "#ffffff83",
-        "statusBar.border": "#51ffc5a9",
+        "statusBar.border": "#72f1b8e9",
         "statusBar.noFolderBackground": "#020137",
         "statusBarItem.hoverBackground": "#ad366ecf",
         "statusBarItem.activeBackground": "#a9c025",
