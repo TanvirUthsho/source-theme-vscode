@@ -908,28 +908,6 @@
     },
 
     "colors": {
-        "foreground": "#ffff",
-
-        // button
-        "button.background": "#ff0055",
-        "button.foreground": "#fff",
-        "button.hoverBackground": "#ff9d00",
-        // badge
-        "badge.background": "#ffc600",
-        "badge.foreground": "#000",
-        // notification colors - The colors below only apply for VS Code versions 1.21 and higher.
-        "notificationCenter.border": "#ffc600",
-        "notificationCenterHeader.foreground": "#aaa",
-        "notificationCenterHeader.background": "#122738",
-        "notificationToast.border": "#ffc600",
-        "notifications.foreground": "#aaa",
-        "notifications.background": "#122738",
-        "notifications.border": "#ffc600",
-        "notificationLink.foreground": "#ffc600",
-
-        // progressBar
-        "progressBar.background": "#ffc600",
-
         // ************************************ === Editor === ****************************************
 
         //========= Night Owl/Witer is Coming========
@@ -940,27 +918,29 @@
         // "editor.background": "#262335",
         // =========Tokyo Hack==============
         // "editor.background": "#14051f",//"#18173E",
-        // Learn With Summit
+        // ========== Learn With Summit ==============
         // "editor.background": "#122033",
 
-        // =================================== MY =======================================
+        // =================================== MY = Source Theme =======================================
         "editor.background": "#00002c",
         // "editor.background": "#0b182b",
         // "editor.background": "#102331",
 
+        // progressBar
+        "progressBar.background": "#51FFC5",
+        "foreground": "#ffff",
         "editor.foreground": "#fff",
         "editorLineNumber.foreground": "#a762a79a",
         "editorLineNumber.activeForeground": "#72f1b8",
         "editorCursor.foreground": "#ffd902",
-        "editor.selectionBackground": "#ff00884d",
+        "editor.selectionBackground": "#ff008859",
         "editor.selectionHighlightBackground": "#35008b",
         "editor.findMatchBackground": "#ff1c6b63",
-        "editor.findMatchHighlightBackground": "#960000b9",
+        "editor.findMatchHighlightBackground": "#ff5185a9",
         "editor.hoverHighlightBackground": "#004696",
         "editor.wordHighlightBackground": "#47008ad5",
         "editor.wordHighlightStrongBackground": "#048300d5",
         "editorRuler.foreground": "#11215e",
-        // "editorIndentGuide.background": "#030d22",
         "editorIndentGuide.background": "#0e2c45",
         "editorIndentGuide.activeBackground": "#C792EA",
 
@@ -984,44 +964,38 @@
         "editorMarkerNavigation.background": "#3B536433",
         "editorMarkerNavigationError.background": "#ff00006c",
         "editorMarkerNavigationWarning.background": "#ffc600",
+        //  =========== Scrollbar Control ================
+        "scrollbar.shadow": "#ff25edf1",
+        "scrollbarSlider.background": "#51ffc57e",
+        "scrollbarSlider.activeBackground": "#ff008069",
+        "scrollbarSlider.hoverBackground": "#ff00807c",
 
-        /*************************  CHECKBOX  *************************/
+        // ================================== Tab: Just Like Browser ==================================
+        "tab.activeBackground": "#0e2d42",
+        "tab.activeForeground": "#fff",
+        "tab.border": "#15232D",
+        // "tab.activeBorder": "#51FFC5",
+        "tab.activeBorderTop": "#51FFC5",
+        "tab.inactiveBackground": "#122738",
+        "tab.inactiveForeground": "#aaa",
+        "tab.hoverBorder": "#00000000",
+        "tab.hoverBackground": "#0e2d42",
+        "tab.unfocusedActiveForeground": "#aaa",
+        "tab.unfocusedInactiveForeground": "#aaa",
+        // =================== editorGroupHeader =================
+        "editorGroupHeader.tabsBackground": "#0c1923",
+        "editorGroupHeader.noTabsBackground": "#193549",
+        "editorGroupHeader.tabsBorder": "#15232d",
 
-        "checkbox.foreground": "#00ebb8",
-
-        // Fold Code
-        "editor.foldBackground": "#b3ff0025",
-        "editorGutter.foldingControlForeground": "#51FFC5",
-        // extensionButton
-        "extensionButton.prominentBackground": "#f7206d",
-        "extensionButton.prominentForeground": "#fff",
-        "extensionButton.prominentHoverBackground": "#ff9d00",
-        "focusBorder": "#0d3a58",
-
-        // Editor Widget Colors
-        "editorWidget.background": "#010033c7",
-        "editorWidget.border": "#0d3a58",
-        "editorHoverWidget.background": "#010033c7",
-        "editorHoverWidget.border": "#ad366e",
-
-        // ======menu==========
-        "menu.background": "#010033c7",
-        // "menu.background": "#151442",
-        "menu.selectionBackground": "#fd009c56",
-        "menu.border": "#bbbbbb46",
-        "menu.foreground": "#ffffff",
-        "menu.selectionForeground": "#dbf303",
-        "menu.selectionBorder": "#ad366e",
-        "menu.separatorBackground": "#ffff",
-        "menubar.selectionBackground": "#ad366ecf",
-        "menubar.selectionForeground": "#fff",
-        "menubar.selectionBorder": "#ad366e",
-
-        // editorWarning
-        "editorWarning.border": "#ffffff00",
-        "editorWarning.foreground": "#51FFC5",
-        "editorWhitespace.foreground": "#ffffff1a",
-        "errorForeground": "#ffc600",
+        // =============================== Side Bar: Where folder are shwoing =========================
+        "sideBarTitle.foreground": "#28002b",
+        "sideBar.background": "#1b1b37",
+        "sideBar.foreground": "#9b9b9b",
+        "sideBarSectionHeader.background": "#0000007e",
+        "sideBar.border": "#6e0483d7",
+        "sideBarSectionHeader.foreground": "#94fff6",
+        "icon.foreground": "#e5ff00",
+        "settings.headerForeground": "#8ee4f2",
 
         //list
         "dropdown.listBackground": "#2a2139",
@@ -1037,57 +1011,14 @@
         "list.inactiveFocusBackground": "#242272",
         "list.inactiveSelectionBackground": "#e6117c6e",
         "list.inactiveSelectionForeground": "#ffffff",
-        "list.filterMatchBorder": "#ad366ecf",
+        "list.filterMatchBorder": "#ad366e",
         "list.invalidItemForeground": "#ffa4a4",
         "list.warningForeground": "#ffd7b0",
         "listFilterWidget.background": "#ad366e",
         "listFilterWidget.outline": "#01001d",
-        "listFilterWidget.noMatchesOutline": "#ff0e1262",
+        "listFilterWidget.noMatchesOutline": "#ff0e129a",
 
-        // merge
-        "merge.border": "#ffffff00",
-        "merge.commonContentBackground": "#c97d0c",
-        "merge.commonHeaderBackground": "#c97d0c",
-        "merge.currentContentBackground": "#2F7366",
-        "merge.currentHeaderBackground": "#2F7366",
-        "merge.incomingContentBackground": "#185294",
-        "merge.incomingHeaderBackground": "#185294",
-
-        // Scrollbar Control
-        "scrollbar.shadow": "#ff25edf1",
-        "scrollbarSlider.background": "#94fff659",
-        "scrollbarSlider.activeBackground": "#ff008069",
-        "scrollbarSlider.hoverBackground": "#ff00807c",
-
-        // =============================== editorGroupHeader ============================
-        "editorGroupHeader.noTabsBackground": "#193549",
-        "editorGroupHeader.tabsBackground": "#0c1923",
-        "editorGroupHeader.tabsBorder": "#15232d",
-
-        // ============================= Tab: Just Like Browser ============================
-        "tab.activeBackground": "#0e2d42",
-        "tab.activeForeground": "#fff",
-        "tab.border": "#15232D",
-        // "tab.activeBorder": "#51FFC5",
-        "tab.activeBorderTop": "#51FFC5",
-        "tab.inactiveBackground": "#122738",
-        "tab.inactiveForeground": "#aaa",
-        "tab.hoverBorder": "#00000000",
-        "tab.hoverBackground": "#0e2d42",
-        "tab.unfocusedActiveForeground": "#aaa",
-        "tab.unfocusedInactiveForeground": "#aaa",
-
-        // =================================== Side Bar: Where folder are shwoing "sideBarTitle.foreground": "#28002b",
-        "sideBar.background": "#1b1b37",
-        "sideBar.foreground": "#9b9b9b",
-        "sideBarSectionHeader.background": "#0000007e",
-        "sideBar.border": "#6e0483d7",
-        "sideBarSectionHeader.foreground": "#94fff6",
-
-        "icon.foreground": "#e5ff00",
-        "settings.headerForeground": "#8ee4f2",
-
-        //*************************  ACTIVITY BAR: This is the beside of the side bar *************************
+        //*********************  ACTIVITY BAR: This is the beside of the side bar **********************
         //     ========Beta=========
 
         "activityBar.background": "#141431",
@@ -1104,17 +1035,104 @@
         // "activityBar.inactiveForeground": "#ffffff6c",
         "activityBar.activeFocusBorder": "#ffd900",
 
-        // ********************************** Status Bar: This is bottom *****************************************
+        // ***************************** Status Bar: This is bottom *********************************
         "statusBar.background": "#1e012c",
         "statusBar.foreground": "#ffffff83",
         "statusBar.border": "#72f1b8e9",
         "statusBar.noFolderBackground": "#020137",
-        "statusBarItem.hoverBackground": "#ad366ecf",
+        "statusBarItem.hoverBackground": "#ad366e",
         "statusBarItem.activeBackground": "#a9c025",
         "statusBarItem.remoteBackground": "#fbff00",
         "statusBarItem.remoteForeground": "#000000",
         "statusBar.debuggingBackground": "#72f1b8e9",
         "statusBar.debuggingForeground": "#000000",
+
+        //============================ Opposite of the StausBar, Here VSCode Logo Appear ================
+        "titleBar.activeBackground": "#15232D",
+        "titleBar.activeForeground": "#ffffff",
+        "titleBar.inactiveBackground": "#193549",
+        "titleBar.inactiveForeground": "#ffffff33",
+        // ======menu==========
+        "menu.background": "#010033c7",
+        // "menu.background": "#151442",
+        "menu.selectionBackground": "#fd009c56",
+        "menu.border": "#bbbbbb46",
+        "menu.foreground": "#ffffff",
+        "menu.selectionForeground": "#dbf303",
+        "menu.selectionBorder": "#ad366e",
+        "menu.separatorBackground": "#ffff",
+        "menubar.selectionBackground": "#ad366e",
+        "menubar.selectionForeground": "#fff",
+        "menubar.selectionBorder": "#ad366e",
+
+        // ======================== All Search Appear ================================
+        "input.background": "#193549",
+        "input.border": "#0d3a58",
+        "input.foreground": "#ffc600",
+        "input.placeholderForeground": "#aaa",
+        "inputOption.activeBorder": "#8dffff",
+        "inputValidation.errorBackground": "#961616",
+        "inputValidation.errorBorder": "#ffc600",
+        "inputValidation.infoBackground": "#193549",
+        "inputValidation.infoBorder": "#0D3A58",
+        "inputValidation.warningBackground": "#193549",
+        "inputValidation.warningBorder": "#ffc600",
+
+        // ================================ Widget: Search Background =================================
+        "editorWidget.background": "#010033c7",
+        "editorWidget.border": "#0d3a58",
+        "editorHoverWidget.background": "#010033c7",
+        "editorHoverWidget.border": "#ad366e",
+        // debug Widget
+        "debugExceptionWidget.background": "#193549",
+        "debugExceptionWidget.border": "#aaa",
+        "debugToolBar.background": "#193549",
+
+        //  =================================== Button ===============================
+        "button.background": "#ff0055",
+        "button.foreground": "#fff",
+        "button.hoverBackground": "#ff9d00",
+        // extensionButton
+        "extensionButton.prominentBackground": "#f7206d",
+        "extensionButton.prominentForeground": "#fff",
+        "extensionButton.prominentHoverBackground": "#ff9d00",
+        "focusBorder": "#0d3a58",
+
+        // badge
+        "badge.background": "#ffc600",
+        "badge.foreground": "#000",
+        // notification colors - The colors below only apply for VS Code versions 1.21 and higher.
+        "notificationCenter.border": "#ffc600",
+        "notificationCenterHeader.foreground": "#aaa",
+        "notificationCenterHeader.background": "#122738",
+        "notificationToast.border": "#ffc600",
+        "notifications.foreground": "#aaa",
+        "notifications.background": "#122738",
+        "notifications.border": "#ffc600",
+        "notificationLink.foreground": "#ffc600",
+
+        /*************************  CHECKBOX  *************************/
+
+        "checkbox.foreground": "#51FFC5",
+
+        // Fold Code
+        "editor.foldBackground": "#b3ff0025",
+        "editorGutter.foldingControlForeground": "#51FFC5",
+
+        // editorWarning
+        "editorWarning.border": "#ffffff00",
+        "editorWarning.foreground": "#51FFC5",
+        "editorWhitespace.foreground": "#ffffff1a",
+        "errorForeground": "#ffc600",
+
+        // merge
+        "merge.border": "#ffffff00",
+        "merge.commonContentBackground": "#c97d0c",
+        "merge.commonHeaderBackground": "#c97d0c",
+        "merge.currentContentBackground": "#2F7366",
+        "merge.currentHeaderBackground": "#2F7366",
+        "merge.incomingContentBackground": "#185294",
+        "merge.incomingHeaderBackground": "#185294",
 
         // Debug Icons.
         "debugIcon.startForeground": "#FAD000",
@@ -1128,25 +1146,10 @@
         "debugIcon.stepOverForeground": "#FAD000",
         "debugIcon.stopForeground": "#EC3A37F5",
 
-        // input
-        "input.background": "#193549",
-        "input.border": "#0d3a58",
-        "input.foreground": "#ffc600",
-        "input.placeholderForeground": "#aaa",
-        "inputOption.activeBorder": "#8dffff",
-        "inputValidation.errorBackground": "#961616",
-        "inputValidation.errorBorder": "#ffc600",
-        "inputValidation.infoBackground": "#193549",
-        "inputValidation.infoBorder": "#0D3A58",
-        "inputValidation.warningBackground": "#193549",
-        "inputValidation.warningBorder": "#ffc600",
         // contrast
         // "contrastActiveBorder": null,
         "contrastBorder": "#ffffff00",
-        // debug
-        "debugExceptionWidget.background": "#193549",
-        "debugExceptionWidget.border": "#aaa",
-        "debugToolBar.background": "#193549",
+
         // description
         "descriptionForeground": "#aaa",
         // diff
@@ -1177,9 +1180,9 @@
         "minimapGutter.addedBackground": "#00ff55",
         "minimapGutter.modifiedBackground": "#eeff00",
         "minimap.findMatchHighlight": "#00ffff",
-        "minimapSlider.activeBackground": "#ffffffbb",
+        "minimapSlider.activeBackground": "#ffffff9c",
 
-        /*************************=  PANEL  =*************************/
+        //====================================  Terminal ===========================================
 
         "panel.background": "#18344b",
         "panel.border": "#ffc600",
@@ -1231,13 +1234,7 @@
         "textLink.foreground": "#0088ff",
         "textPreformat.foreground": "#ffc600",
         "textSeparator.foreground": "#0d3a58",
-        "titleBar.activeBackground": "#15232D",
-        "titleBar.activeForeground": "#ffffff",
-        "titleBar.inactiveBackground": "#193549",
-        "titleBar.inactiveForeground": "#ffffff33",
         "walkThrough.embeddedEditorBackground": "#0d3a58",
-        "welcomePage.buttonBackground": "#193549",
-        "welcomePage.buttonHoverBackground": "#0d3a58",
         "widget.shadow": "#f7206bab"
     }
 }
