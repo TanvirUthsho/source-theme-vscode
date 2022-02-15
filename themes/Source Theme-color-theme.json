@@ -971,7 +971,7 @@
         "scrollbarSlider.hoverBackground": "#ff65b277",
 
         // ================================== Tab: Just Like Browser ==================================
-        "tab.activeBackground": "#0e2d42",
+        "tab.activeBackground": "#00002c",
         "tab.activeForeground": "#fff",
         "tab.border": "#15232D",
         // "tab.activeBorder": "#51FFC5",
@@ -979,7 +979,7 @@
         "tab.inactiveBackground": "#122738",
         "tab.inactiveForeground": "#aaa",
         "tab.hoverBorder": "#00000000",
-        "tab.hoverBackground": "#0e2d42",
+        "tab.hoverBackground": "#061c2c",
         "tab.unfocusedActiveForeground": "#aaa",
         "tab.unfocusedInactiveForeground": "#aaa",
         // =================== editorGroupHeader =================
