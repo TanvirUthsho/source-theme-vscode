@@ -919,10 +919,15 @@
         // =========Tokyo Hack==============
         // "editor.background": "#14051f",//"#18173E",
         // ========== Learn With Summit ==============
-        // "editor.background": "#122033",
+        // official
+        // "editor.background": "#101e2c",
+        // proffesional
+        // "editor.background": "#1c1e2e",
 
         // =================================== MY = Source Theme =======================================
-        "editor.background": "#00002c",
+        // "editor.background": "#1e1b2e",
+        "editor.background": "#1c1e2e",
+        // "editor.background": "#00002c",
         // "editor.background": "#0b182b",
         // "editor.background": "#102331",
 
@@ -989,7 +994,7 @@
 
         // =============================== Side Bar: Where folder are shwoing =========================
         "sideBarTitle.foreground": "#28002b",
-        "sideBar.background": "#1b1b37",
+        "sideBar.background": "#191b31",
         "sideBar.foreground": "#9b9b9b",
         "sideBarSectionHeader.background": "#0000007e",
         "sideBar.border": "#6e0483d7",
