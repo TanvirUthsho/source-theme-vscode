@@ -912,12 +912,15 @@
 
         //========= Night Owl/Witer is Coming========
         // "editor.background": "#011627",
-        //========= Cobalt2=========================
+        // Dracula
+        "editor.background": "#171c2a",
+
+        //========= Cobalt2==============
         // "editor.background": "#193549",
         // =======Synthwave=============
         // "editor.background": "#262335",
         // =========Tokyo Hack==============
-        // "editor.background": "#14051f",//"#18173E",
+        // "editor.background": "#14051f",
         // ========== Learn With Summit ==============
         // official
         // "editor.background": "#101e2c",
@@ -925,7 +928,7 @@
         // "editor.background": "#1c1e2e",
 
         // =================================== MY = Source Theme =======================================
-        "editor.background": "#1c1e2e",
+        // "editor.background": "#1c1e2e",
         // "editor.background": "#00002c",
         // "editor.background": "#0b182b",
         // "editor.background": "#102331",
