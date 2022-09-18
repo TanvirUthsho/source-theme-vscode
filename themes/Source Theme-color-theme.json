@@ -913,7 +913,7 @@
         //========= Night Owl/Witer is Coming========
         // "editor.background": "#011627",
         // Dracula
-        "editor.background": "#171c2a",
+        // "editor.background": "#171c2a",
 
         //========= Cobalt2==============
         // "editor.background": "#193549",
@@ -928,10 +928,9 @@
         // "editor.background": "#1c1e2e",
 
         // =================================== MY = Source Theme =======================================
-        // "editor.background": "#1c1e2e",
-        // "editor.background": "#00002c",
-        // "editor.background": "#0b182b",
-        // "editor.background": "#102331",
+        "editor.background": "#211f2f",
+        // "editor.background": "#1e1b29",
+
 
         // progressBar
         "progressBar.background": "#51FFC5",
@@ -1001,7 +1000,7 @@
         "sideBarSectionHeader.background": "#0000007e",
         "sideBar.border": "#6e0483d7",
         "sideBarSectionHeader.foreground": "#94fff6",
-        "icon.foreground": "#51FFC5",
+        "icon.foreground": "#03ffaa",
         "settings.headerForeground": "#8ee4f2",
 
         //list
@@ -1016,7 +1015,7 @@
         "list.hoverBackground": "#ad366d59",
         "list.hoverForeground": "#ffffff",
         "list.inactiveFocusBackground": "#242272",
-        "list.inactiveSelectionBackground": "#e6117c6e",
+        "list.inactiveSelectionBackground": "#e6117c57",
         "list.inactiveSelectionForeground": "#ffffff",
         "list.filterMatchBorder": "#ad366e",
         "list.invalidItemForeground": "#ffa4a4",
@@ -1032,11 +1031,11 @@
         "activityBar.border": "#0e0e1281",
         // "activityBar.foreground": "#989eb3",
         "activityBar.inactiveForeground": "#868d9cAA",
-        "activityBar.foreground": "#51FFC5",
+        "activityBar.foreground": "#03ffaa",
 
         //    ========Beta=========
         "activityBar.activeBackground": "#0c1923",
-        "activityBar.activeBorder": "#51FFC5",
+        "activityBar.activeBorder": "#03ffaa",
         "activityBarBadge.background": "#ffd900",
         "activityBarBadge.foreground": "#080808",
         // "activityBar.inactiveForeground": "#ffffff6c",
@@ -1065,7 +1064,7 @@
         "menu.selectionBackground": "#fd009c56",
         "menu.border": "#bbbbbb46",
         "menu.foreground": "#ffffff",
-        "menu.selectionForeground": "#51FFC5",
+        "menu.selectionForeground": "#ffc600",
         "menu.selectionBorder": "#ad366e",
         "menu.separatorBackground": "#ffff",
         "menubar.selectionBackground": "#ad366e",
@@ -1096,13 +1095,13 @@
         "debugToolBar.background": "#193549",
 
         //  =================================== Button ===============================
-        "button.background": "#ff0055",
+        "button.background": "#ff0357",
         "button.foreground": "#fff",
-        "button.hoverBackground": "#51FFC5",
+        "button.hoverBackground": "#cf0045",
         // extensionButton
-        "extensionButton.prominentBackground": "#f7206d",
+        "extensionButton.prominentBackground": "#ff0357",
         "extensionButton.prominentForeground": "#fff",
-        "extensionButton.prominentHoverBackground": "#ff9d00",
+        "extensionButton.prominentHoverBackground": "#cf0045",
         "focusBorder": "#0d3a58",
 
         // badge
@@ -1229,7 +1228,7 @@
         "gitDecoration.addedResourceForeground": "#e1fa00",
 
         // Gutter
-        "editorGutter.deletedBackground": "#ff0055",
+        "editorGutter.deletedBackground": "#ff0357",
         "editorGutter.addedBackground": "#4ad45c",
         "editorGutter.modifiedBackground": "#dfdc4b",
 
@@ -1242,6 +1241,6 @@
         "textPreformat.foreground": "#ffc600",
         "textSeparator.foreground": "#0d3a58",
         "walkThrough.embeddedEditorBackground": "#0d3a58",
-        "widget.shadow": "#ff5185a9"
+        "widget.shadow": "#ff51858a"
     }
 }
