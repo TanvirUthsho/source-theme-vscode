@@ -1094,13 +1094,13 @@
         "debugToolBar.background": "#193549",
 
         //  =================================== Button ===============================
-        "button.background": "#ff0357",
-        "button.foreground": "#fff",
-        "button.hoverBackground": "#cf0045",
+        "button.background": "#51FFC5",//#ff0357
+        "button.foreground": "#010000",
+        "button.hoverBackground": "#51ffc5c9",
         // extensionButton
-        "extensionButton.prominentBackground": "#ff0357",
+        "extensionButton.prominentBackground": "#51FFC5",
         "extensionButton.prominentForeground": "#fff",
-        "extensionButton.prominentHoverBackground": "#cf0045",
+        "extensionButton.prominentHoverBackground": "#51ffc5c9",
         "focusBorder": "#0d3a58",
 
         // badge
@@ -1189,7 +1189,7 @@
 
         //====================================  Terminal ===========================================
 
-        "panel.background": "#18344b",
+        "panel.background": "#163147",
         "panel.border": "#ffc600",
         "panelTitle.activeBorder": "#00f3d3",
         "panelTitle.activeForeground": "#eeff00",
