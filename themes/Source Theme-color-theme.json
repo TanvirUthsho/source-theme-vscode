@@ -1092,13 +1092,13 @@
         "debugToolBar.background": "#193549",
 
         //  =================================== Button ===============================
-        "button.background": "#51FFC5",//#ff0357
+        "button.background": "#72f1b8e9",//#ff0357
         "button.foreground": "#010000",
-        "button.hoverBackground": "#51ffc5c9",
+        "button.hoverBackground": "#51ffc7c9",
         // extensionButton
-        "extensionButton.prominentBackground": "#51FFC5",
-        "extensionButton.prominentForeground": "#fff",
-        "extensionButton.prominentHoverBackground": "#51ffc5c9",
+        "extensionButton.prominentBackground": "#72f1b8e9",
+        "extensionButton.prominentForeground": "#000000",
+        "extensionButton.prominentHoverBackground": "#51ffc7c9",
         "focusBorder": "#0d3a58",
 
         // badge
