@@ -157,7 +157,7 @@ This theme works best with the following settings. Especially if you have the Op
 {
     "workbench.colorTheme": "Source Theme",
     // The Similar Cursive font is Victor Mono.It's Free and awsome :-)
-    "editor.fontFamily":"Victor Mono",
+    "editor.fontFamily":"Source Code Pro",
      // OR
     // But The almst same font Operator Mono. It's $200 and you need to buy it.
     // "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",

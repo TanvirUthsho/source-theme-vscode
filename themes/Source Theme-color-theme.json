@@ -926,9 +926,11 @@
         // "editor.background": "#101e2c",
         // proffesional
         // "editor.background": "#1c1e2e",
+        //Peach of Eye
+        //"editor.background": "#122033",
 
         // =================================== MY = Source Theme =======================================
-        "editor.background": "#01001d",
+        "editor.background": "#011627",
 
 
 
@@ -993,7 +995,7 @@
         "editorGroupHeader.tabsBorder": "#15232d",
 
         // =============================== Side Bar: Where folder are shwoing =========================
-        "sideBar.background": "#0a092e",
+        "sideBar.background": "#011b31",
 		"sideBar.border": "#2f2d6b",
 		"sideBar.foreground": "#F4F4FF",
 		"sideBarSectionHeader.background": "#01001d",
