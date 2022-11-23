@@ -975,7 +975,7 @@
         "scrollbarSlider.hoverBackground": "#ff65b277",
 
         // ================================== Tab: Just Like Browser ==================================
-        "tab.activeBorder": "#ad366e",
+        "tab.activeBorder": "#51FFC5",
 		"tab.activeBorderTop": "#242272",
 		"tab.activeBackground": "#242272",
 		"tab.activeForeground": "#ffffff",
