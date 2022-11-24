@@ -67,7 +67,7 @@ On Mac:
 
 {
   "vscode_custom_css.imports": [
-    "file:///Users/{your username}/.vscode/extensions/codevars.outrun-meets-synthwave-0.0.1/synthWaveStyles.css"
+    "file:///Users/{your username}/.vscode/extensions/thuthsho.source-theme-11.3.0/synthWaveStyles.css"
     ]
 }
 
@@ -75,14 +75,14 @@ Windows:
 
 {
   "vscode_custom_css.imports": [
-    "file:///C:/Users/{your username}/.vscode/extensions/codevars.outrun-meets-synthwave-0.0.1/synthWaveStyles.css"
+    "file:///C:/Users/{your username}/.vscode/extensions/thuthsho.source-theme-11.3.0/synthWaveStyles.css"
     ]
 }
 
 Linux:
 {
     "vscode_custom_css.imports": [
-        "file:///home/{your username}/.vscode/extensions/codevars.outrun-meets-synthwave-0.0.1/synthWaveStyles.css"
+        "file:///home/{your username}/.vscode/extensions/thuthsho.source-theme-11.3.0/synthWaveStyles.css"
     ]
 }
 ```
