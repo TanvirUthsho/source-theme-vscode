@@ -17,7 +17,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#c8f8d7b7"
+                "foreground": "#c8f8d799"
                 // "foreground": "#ff9271",
                 // "foreground": "#FF8B39",
             }
@@ -65,7 +65,7 @@
             "name": "String",
             "scope": ["string"],
             "settings": {
-                "foreground": "#F1FC59"
+                "foreground": "#f7f269d9"
             }
         },
         {
@@ -267,7 +267,7 @@
                 "entity.other.attribute-name.id"
             ],
             "settings": {
-                "foreground": "#f1fc59",
+                "foreground": "#f7f269d9",
                 "fontStyle": ""
             }
         },
@@ -442,7 +442,7 @@
             "scope": "support.type.property-name.json",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#f1fa8e"
+                "foreground": "#f1fa8ef1"
             }
         },
         {
@@ -977,12 +977,12 @@
         "scrollbarSlider.hoverBackground": "#ff65b277",
 
         // ================================== Tab: Just Like Browser ==================================
-        "tab.activeBorder": "#51FFC5",
+        //"tab.activeBorder": "#51FFC5",
 		"tab.activeBorderTop": "#242272",
-		"tab.activeBackground": "#242272",
+		"tab.activeBackground": "#25227299",
 		"tab.activeForeground": "#ffffff",
 		"tab.border": "#01001d",
-		"tab.hoverBackground": "#ad366e88",
+		"tab.hoverBackground": "#25227299",
 		"tab.inactiveBackground": "#0a092e",
 		"tab.inactiveForeground": "#c4c2fc",
 		"tab.unfocusedActiveBorder": "#01001d",
@@ -992,7 +992,7 @@
         // =================== editorGroupHeader =================
         "editorGroupHeader.tabsBackground": "#0c1923",
         "editorGroupHeader.noTabsBackground": "#193549",
-        "editorGroupHeader.tabsBorder": "#15232d",
+       //"editorGroupHeader.tabsBorder": "#15232d",
 
         // =============================== Side Bar: Where folder are shwoing =========================
         "sideBar.background": "#011b31",
@@ -1053,8 +1053,8 @@
         "statusBar.debuggingForeground": "#000000",
 
         //============================ Opposite of the StausBar, Here VSCode Logo Appear ================
-        "titleBar.activeBackground": "#15232D",
-        "titleBar.activeForeground": "#ffffff",
+        "titleBar.activeBackground": "#111f29",
+        "titleBar.activeForeground": "#ffffffb3",
         "titleBar.inactiveBackground": "#193549",
         "titleBar.inactiveForeground": "#ffffff33",
         // ======menu==========

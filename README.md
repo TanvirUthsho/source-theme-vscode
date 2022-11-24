@@ -1,5 +1,5 @@
 <div align="center">
-<a align="center" href="https:// "><img align="center" src="images/all-languages.gif" /></a>
+<a align="center" href="https:// "><img align="center" src="images/trailer.gif" /></a>
 
 <br>
 <br>
@@ -56,6 +56,37 @@
 4. Click **Reload** to reload your editor.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Source Theme**.
 6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=THUthsho.source-theme&ssr=false#review-details) like 110+ awesome devs to appreciate the effort behind this theme.
+<br>
+To enable the gradients in active tabs you need to follow the next steps:
+- Install this theme
+- Download [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
+- Add this code depending your operative system, and add your user or file location in your VS Code `settings.json`.
+
+```json
+On Mac:
+
+{
+  "vscode_custom_css.imports": [
+    "file:///Users/{your username}/.vscode/extensions/codevars.outrun-meets-synthwave-0.0.1/synthWaveStyles.css"
+    ]
+}
+
+Windows:
+
+{
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/{your username}/.vscode/extensions/codevars.outrun-meets-synthwave-0.0.1/synthWaveStyles.css"
+    ]
+}
+
+Linux:
+{
+    "vscode_custom_css.imports": [
+        "file:///home/{your username}/.vscode/extensions/codevars.outrun-meets-synthwave-0.0.1/synthWaveStyles.css"
+    ]
+}
+```
+
 
 <br>
 
@@ -128,7 +159,7 @@
 <br><br>
 
 ![Python Syntax](https://img.shields.io/badge/SYNTAX-Python-gray.svg?colorB=5532F3)
-<img src="images/python.png">
+<img src="images/py.png">
 <br><br>
 <img src="images/hr.png">
 
@@ -156,11 +187,8 @@ This theme works best with the following settings. Especially if you have the Op
 ```json
 {
     "workbench.colorTheme": "Source Theme",
-    // The Similar Cursive font is Victor Mono.It's Free and awsome :-)
+    /
     "editor.fontFamily":"Source Code Pro",
-     // OR
-    // But The almst same font Operator Mono. It's $200 and you need to buy it.
-    // "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
     "editor.fontSize": 15,
     "editor.lineHeight": 25,
     "editor.letterSpacing": 0.5,
