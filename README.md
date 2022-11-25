@@ -132,7 +132,7 @@ Linux:
 <br><br><br>
 
 ![HTML Syntax](https://img.shields.io/badge/SYNTAX-css-gray.svg?colorB=5532F3)
-<img src="images/css.png">
+<img src="images/css1.png">
 
 <br>
 
@@ -140,7 +140,7 @@ Linux:
 <br><br><br>
 
 ![Markdown Syntax](https://img.shields.io/badge/SYNTAX-Markdown-gray.svg?colorB=5532F3)
-<img src="images/markdown.png">
+<img src="images/markdown1.png">
 <br>
 
 <img src="images/hr.png">
@@ -150,7 +150,7 @@ Linux:
 
 ![PHP Syntax](https://img.shields.io/badge/SYNTAX-PHP-gray.svg?colorB=5532F3)
 <br>
-<img src="images/php.png">
+<img src="images/php1.png">
 
 <br>
 
@@ -159,7 +159,7 @@ Linux:
 <br><br>
 
 ![Python Syntax](https://img.shields.io/badge/SYNTAX-Python-gray.svg?colorB=5532F3)
-<img src="images/py.png">
+<img src="images/py1.png">
 <br><br>
 <img src="images/hr.png">
 
@@ -173,7 +173,7 @@ Linux:
 
 <br><br>
 ![Go Syntax](https://img.shields.io/badge/SYNTAX-Go-gray.svg?colorB=5532F3)
-<img src="images/go.png">
+<img src="images/go1.png">
 
 </div>
 <br>
