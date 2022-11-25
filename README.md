@@ -159,7 +159,7 @@ Linux:
 <br><br>
 
 ![Python Syntax](https://img.shields.io/badge/SYNTAX-Python-gray.svg?colorB=5532F3)
-<img src="images/py1.png">
+<img src="images/py3.png">
 <br><br>
 <img src="images/hr.png">
 
