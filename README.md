@@ -113,7 +113,7 @@ Linux:
 
 ![JavaScript Syntax](https://img.shields.io/badge/SYNTAX-JavaScript-gray.svg?colorB=5532F3)
 <br>
-<img src="images/js.png">
+<img src="images/js1.png">
 
 <br>
 
@@ -124,7 +124,7 @@ Linux:
 <br>
 
 ![HTML Syntax](https://img.shields.io/badge/SYNTAX-HTML-gray.svg?colorB=5532F3)
-<img src="images/html.png">
+<img src="images/html1.png">
 
 <br>
 
