@@ -55,8 +55,8 @@
 3. Click **Install** to install it.
 4. Click **Reload** to reload your editor.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Source Theme**.
-6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=THUthsho.source-theme&ssr=false#review-details) like 110+ awesome devs to appreciate the effort behind this theme.
-<br>
+6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=THUthsho.source-theme&ssr=false#review-details) like 110+ awesome devs to appreciate the effort behind this theme.<br>
+
 To enable the gradients in active tabs you need to follow the next steps:
 - Install this theme
 - Download [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
