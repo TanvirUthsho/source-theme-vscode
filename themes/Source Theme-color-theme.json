@@ -1209,7 +1209,7 @@
         "terminal.ansiBrightRed": "#ff628c",
         "terminal.ansiBrightGreen": "#66ff00",
         "terminal.ansiBrightYellow": "#ffc600",
-        "terminal.ansiBrightBlue": "#0088ff",
+        "terminal.ansiBrightBlue": "#1790f9",
         "terminal.ansiBrightMagenta": "#fb94ff",
         "terminal.ansiBrightCyan": "#80fcff",
         "terminal.ansiBrightWhite": "#ffffff",
@@ -1233,10 +1233,10 @@
 
         // textBlockQuote
         "textBlockQuote.background": "#193549",
-        "textBlockQuote.border": "#0088ff",
+        "textBlockQuote.border": "#00ffb7",
         "textCodeBlock.background": "#193549",
-        "textLink.activeForeground": "#0088ff",
-        "textLink.foreground": "#0088ff",
+        "textLink.activeForeground": "#00ffb7",
+        "textLink.foreground": "#00ffb7",
         "textPreformat.foreground": "#ffc600",
         "textSeparator.foreground": "#0d3a58",
         "walkThrough.embeddedEditorBackground": "#0d3a58",
