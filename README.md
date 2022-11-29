@@ -57,40 +57,12 @@
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Source Theme**.
 6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=THUthsho.source-theme&ssr=false#review-details) like 110+ awesome devs to appreciate the effort behind this theme.<br>
 
-To enable the gradients in active tabs you need to follow the next steps:
-- Install this theme
-- Download [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
-- Add this code depending your operative system, and add your user or file location in your VS Code `settings.json`.
 
-```json
-On Mac:
-
-{
-  "vscode_custom_css.imports": [
-    "file:///Users/{your username}/.vscode/extensions/thuthsho.source-theme-11.3.0/synthWaveStyles.css"
-    ]
-}
-
-Windows:
-
-{
-  "vscode_custom_css.imports": [
-    "file:///C:/Users/{your username}/.vscode/extensions/thuthsho.source-theme-11.3.0/synthWaveStyles.css"
-    ]
-}
-
-Linux:
-{
-    "vscode_custom_css.imports": [
-        "file:///home/{your username}/.vscode/extensions/thuthsho.source-theme-11.3.0/synthWaveStyles.css"
-    ]
-}
-```
 
 
 <br>
 
-![alternate installation](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/5_alternate_installation.png)
+<!-- ![alternate installation](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/5_alternate_installation.png)
 
 ## Alternate Installation
 
@@ -99,7 +71,7 @@ Linux:
 3. Click **Install** to install it.
 4. Click **Reload** to reload the your editor.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Source theme**.
-6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=THUthsho.source-theme&ssr=false#review-details) like 110+ awesome devs to appreciate the effort on this theme.
+6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=THUthsho.source-theme&ssr=false#review-details) like 110+ awesome devs to appreciate the effort on this theme. -->
 
 <br>
 
@@ -180,6 +152,37 @@ Linux:
 
 ![Tips](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/6_custom_settings.png)
 
+<br>
+
+To enable the gradients in active tabs you need to follow the next steps:
+- Install this theme
+- Download [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
+- Add this code depending your operative system, and add your user or file location in your VS Code `settings.json`.
+
+```json
+On Mac:
+
+{
+  "vscode_custom_css.imports": [
+    "file:///Users/{your username}/.vscode/extensions/thuthsho.source-theme-11.3.0/synthWaveStyles.css"
+    ]
+}
+
+Windows:
+
+{
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/{your username}/.vscode/extensions/thuthsho.source-theme-11.3.0/synthWaveStyles.css"
+    ]
+}
+
+Linux:
+{
+    "vscode_custom_css.imports": [
+        "file:///home/{your username}/.vscode/extensions/thuthsho.source-theme-11.3.0/synthWaveStyles.css"
+    ]
+}
+```
 ## Best Custom Settings
 
 This theme works best with the following settings. Especially if you have the Operator mono/Victor mono font. Add it to your user settings JSON object.
@@ -223,10 +226,10 @@ This theme works best with the following settings. Especially if you have the Op
 
 <img src="images/10_hello.png">
 
-#### **Hello, I am a [Engineer](https://TheDevCouple.com)**!
+#### **Hello, I am a [Softawre Engineer](https://TheDevCouple.com)**!
 
 I am [Tanvir Hossain Uthsho](https://twitter.com/t.h.uthsho/).
-Uthsho means Source. That's why I named My theme Source Theme. I am a Full Stack Web/JS Developer, OSS Dev Advocate, and a core developer at WordPress. This Is my Personal Website:<a href= "WWW.theuthso.com"> theuthso.com</a>
+Uthsho means Source. That's why I named My theme Source Theme. I am a MERN Stack, Android app, Flutter developer and a core developer at WordPress. This Is my Personal Website:<a href= "WWW.theuthso.com"> theuthso.com</a>
 
 <!-- > #### [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568)
 > If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you. [Support here →](https://pay.paddle.com/checkout/515568) -->
