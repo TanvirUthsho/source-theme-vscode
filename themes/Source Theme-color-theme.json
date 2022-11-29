@@ -65,7 +65,7 @@
             "name": "String",
             "scope": ["string"],
             "settings": {
-                "foreground": "#f7f269d9"
+                "foreground": "#F1FA8C"
             }
         },
         {
@@ -267,7 +267,7 @@
                 "entity.other.attribute-name.id"
             ],
             "settings": {
-                "foreground": "#f7f269d9",
+                "foreground": "#F1FA8C",
                 "fontStyle": ""
             }
         },
@@ -940,7 +940,7 @@
         "editor.foreground": "#fff",
         "editorLineNumber.foreground": "#a762a79a",
         "editorLineNumber.activeForeground": "#72f1b8",
-        "editorCursor.foreground": "#ffd902",
+        "editorCursor.foreground": "#EEFF00",
         "editor.selectionBackground": "#ff008853",
         "editor.selectionHighlightBackground": "#35008b",
         "editor.findMatchBackground": "#ff1c6b63",
