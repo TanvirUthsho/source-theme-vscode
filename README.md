@@ -28,7 +28,7 @@
 
 > _Theme your code editor will love_
 
-</div><br<br>
+</div><br>
             A professional theme with hand-picked & bold colorful for your VS Code editor and terminal. I have created this theme in combination with other good themes in the marketplace. I think this theme is the best and unique among the best themes in Marketplace.<br>
         </td>
     </tr>
