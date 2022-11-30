@@ -19,7 +19,7 @@
                 "fontStyle": "italic",
                 "foreground": "#c8f8d799"
                 // "foreground": "#ff9271",
-                // "foreground": "#FF8B39",
+                // "foreground": "#F1FA8C",
             }
         },
         {
@@ -100,7 +100,7 @@
             "name": "Keyword",
             "scope": "keyword",
             "settings": {
-                "foreground": "#FF8B39"
+                "foreground": "#F1FA8C"
                 // "foreground": "#FF9D00"
             }
         },
@@ -125,7 +125,7 @@
             "scope": "support.type.vendored.property-name",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#FF8B39"
+                "foreground": "#F1FA8C"
             }
         },
 
@@ -278,7 +278,7 @@
                 "meta.selector"
             ],
             "settings": {
-                "foreground": "#FF8B39"
+                "foreground": "#F1FA8C"
             }
         },
         {
@@ -631,14 +631,14 @@
             "name": "PYTHON Self Argument",
             "scope": "variable.parameter.function.language.special.self.python",
             "settings": {
-                "foreground": "#51FFC5"
+                "foreground": "#FB94FF"
             }
         },
         {
             "name": "support.function.builtin.python",
             "scope": "support.function.builtin.python",
             "settings": {
-                "foreground": "#FF628C"
+                "foreground": "#51FFC5"
             }
         },
         {
@@ -1012,7 +1012,7 @@
         "list.focusBackground": "#242272",
         "list.focusForeground": "#ffffff",
         "list.highlightForeground": "#94fff6",
-        "list.hoverBackground": "#ad366d59",
+        "list.hoverBackground": "#25227299",
         "list.hoverForeground": "#ffffff",
         "list.inactiveFocusBackground": "#242272",
         "list.inactiveSelectionBackground": "#e6117c57",
