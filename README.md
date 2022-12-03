@@ -164,24 +164,33 @@ On Mac:
 
 {
   "vscode_custom_css.imports": [
-    "file:///Users/{your username}/.vscode/extensions/thuthsho.source-theme-11.3.0/synthWaveStyles.css"
+    "file:///Users/{your username}/.vscode/extensions/thuthsho.source-theme-11.8.0/synthWaveStyles.css"
     ]
 }
+"workbench.colorCustomizations": {
+        "tab.activeBorder": "#00000000",
+},
 
 Windows:
 
 {
-  "vscode_custom_css.imports": [
-    "file:///C:/Users/{your username}/.vscode/extensions/thuthsho.source-theme-11.3.0/synthWaveStyles.css"
-    ]
-}
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/{your username}/.vscode/extensions/thuthsho.source-theme-11.8.0/synthWaveStyles.css"
+
+    ],
+    "workbench.colorCustomizations": {
+        "tab.activeBorder": "#00000000",
+},
 
 Linux:
 {
     "vscode_custom_css.imports": [
-        "file:///home/{your username}/.vscode/extensions/thuthsho.source-theme-11.3.0/synthWaveStyles.css"
+        "file:///home/{your username}/.vscode/extensions/thuthsho.source-theme-11.8.0/synthWaveStyles.css"
     ]
 }
+"workbench.colorCustomizations": {
+        "tab.activeBorder": "#00000000",
+},
 ```
 ## Best Custom Settings
 

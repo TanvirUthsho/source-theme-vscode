@@ -1012,7 +1012,7 @@
         "list.focusBackground": "#242272",
         "list.focusForeground": "#ffffff",
         "list.highlightForeground": "#94fff6",
-        "list.hoverBackground": "#25227299",
+        "list.hoverBackground": "#25227279",
         "list.hoverForeground": "#ffffff",
         "list.inactiveFocusBackground": "#242272",
         "list.inactiveSelectionBackground": "#e6117c57",
@@ -1027,7 +1027,7 @@
         //*********************  ACTIVITY BAR: This is the beside of the side bar **********************
         //     ========Beta=========
 
-        "activityBar.activeBorder": "#ad366e",
+        "activityBar.activeBorder": "#a33267",
 		"activityBar.background": "#01001d",
 		"activityBar.border": "#2f2d6b",
 		"activityBar.foreground": "#51FFC5",
