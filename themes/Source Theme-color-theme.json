@@ -938,13 +938,13 @@
         "progressBar.background": "#51FFC5",
         "foreground": "#ffff",
         "editor.foreground": "#fff",
-        "editorLineNumber.foreground": "#a762a79a",
+        "editorLineNumber.foreground": "#c4c2fc93", //#a762a79a
         "editorLineNumber.activeForeground": "#72f1b8",
         "editorCursor.foreground": "#EEFF00",
-        "editor.selectionBackground": "#ff008853",
+        "editor.selectionBackground": "#ff008849",
         "editor.selectionHighlightBackground": "#35008b",
         "editor.findMatchBackground": "#ff1c6b63",
-        "editor.findMatchHighlightBackground": "#ff5185a9",
+        "editor.findMatchHighlightBackground": "#ff51859c",
         "editor.hoverHighlightBackground": "#004696",
         "editor.wordHighlightBackground": "#47008ad5",
         "editor.wordHighlightStrongBackground": "#048300d5",
@@ -978,7 +978,7 @@
 
         // ================================== Tab: Just Like Browser ==================================
         "tab.activeBorder": "#51FFC5",
-		"tab.activeBorderTop": "#242272",
+		// "tab.activeBorderTop": "#242272",
 		"tab.activeBackground": "#25227299",
 		"tab.activeForeground": "#ffffff",
 		"tab.border": "#01001d",
@@ -995,9 +995,9 @@
        //"editorGroupHeader.tabsBorder": "#15232d",
 
         // =============================== Side Bar: Where folder are shwoing =========================
-        "sideBar.background": "#011b31",
+        "sideBar.background": "#01182c",
 		"sideBar.border": "#2f2d6b",
-		"sideBar.foreground": "#F4F4FF",
+		"sideBar.foreground": "#c4c2fc",
 		"sideBarSectionHeader.background": "#01001d",
 		"sideBarSectionHeader.foreground": "#94fff6",
         "icon.foreground": "#03ffaa",
@@ -1005,7 +1005,7 @@
 
         //list
         "dropdown.listBackground": "#2a2139",
-        "list.activeSelectionBackground": "#e6117c64",
+        "list.activeSelectionBackground": "#35008b",
         "list.activeSelectionForeground": "#ffffff",
         "list.dropBackground": "#322EA6",
         "list.errorForeground": "#fa7373",
@@ -1015,7 +1015,7 @@
         "list.hoverBackground": "#25227279",
         "list.hoverForeground": "#ffffff",
         "list.inactiveFocusBackground": "#242272",
-        "list.inactiveSelectionBackground": "#e6117c57",
+        "list.inactiveSelectionBackground": "#35008b",
         "list.inactiveSelectionForeground": "#ffffff",
         "list.filterMatchBorder": "#ad366e",
         "list.invalidItemForeground": "#ffa4a4",
@@ -1027,7 +1027,7 @@
         //*********************  ACTIVITY BAR: This is the beside of the side bar **********************
         //     ========Beta=========
 
-        "activityBar.activeBorder": "#a33267",
+        // "activityBar.activeBorder": "#a33267",
 		"activityBar.background": "#01001d",
 		"activityBar.border": "#2f2d6b",
 		"activityBar.foreground": "#51FFC5",
@@ -1053,8 +1053,8 @@
         "statusBar.debuggingForeground": "#000000",
 
         //============================ Opposite of the StausBar, Here VSCode Logo Appear ================
-        "titleBar.activeBackground": "#111f29",
-        "titleBar.activeForeground": "#ffffffb3",
+        "titleBar.activeBackground": "#01001d",
+        "titleBar.activeForeground": "#829197",
         "titleBar.inactiveBackground": "#193549",
         "titleBar.inactiveForeground": "#ffffff33",
         // ======menu==========
