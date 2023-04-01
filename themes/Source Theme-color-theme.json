@@ -17,9 +17,8 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#c8f8d799"
-                // "foreground": "#ff9271",
-                // "foreground": "#F1FA8C",
+                "foreground": "#c4c2fc93"
+                
             }
         },
         {
