@@ -18,7 +18,7 @@
             "settings": {
                 "fontStyle": "italic",
                 "foreground": "#c4c2fc93"
-                
+
             }
         },
         {
@@ -1029,7 +1029,7 @@
         // "activityBar.activeBorder": "#a33267",
 		"activityBar.background": "#01001d",
 		"activityBar.border": "#2f2d6b",
-		"activityBar.foreground": "#51FFC5",
+		"activityBar.foreground": "#00ffb7",
 		"activityBar.inactiveForeground": "#c4c2fc",
 
         //    ========Beta=========
