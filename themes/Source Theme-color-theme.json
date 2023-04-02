@@ -1105,7 +1105,6 @@
         // badge
         "badge.background": "#ffc600",
         "badge.foreground": "#000",
-        // notification colors - The colors below only apply for VS Code versions 1.21 and higher.
         "notificationCenter.border": "#ffc600",
         "notificationCenterHeader.foreground": "#aaa",
         "notificationCenterHeader.background": "#122738",
