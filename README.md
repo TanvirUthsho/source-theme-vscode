@@ -8,14 +8,12 @@
 
 
 <p align="center">
- <a href="https://"><img src="https://img.shields.io/badge/%20 Made by-Uthsho%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
-
-
-<a href="mailto:theuthso.com"><img src="https://img.shields.io/badge/%20 To Conatct me:-theuthso@gmail.com%20%E2%86%92-gray.svg?colorA=CD5C5C&colorB=EC7063&style=for-the-badge"/></a>
+ <a href="https://github.com/TanvirUthsho"><img src="https://img.shields.io/badge/%20 Made by-Uthsho%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+</a>
+<br>
+<a href="mailto:theuthso@gmai.com"><img src="https://img.shields.io/badge/%20 To Conatct me:-theuthso@gmail.com%20%E2%86%92-gray.svg?colorA=CD5C5C&colorB=EC7063&style=for-the-badge"/></a>
+<br>
 <a href="https://www.instagram.com/theuthsho"><img src="https://img.shields.io/badge/%20 Instragram:-theuthsho%20%E2%86%92-gray.svg?colorA=rgb(180 90 167)&colorB=rgb(233 36 132)&style=for-the-badge"/></a>
-
-<br><h3>To Conatct me:</h3>
-<a href="theuthso.com"><h3>theuthso@gmail.com<h3></a>
 
 </p>
 
