@@ -1173,7 +1173,7 @@
         "peekViewEditor.matchHighlightBorder": "#34006e",
         "peekViewResult.background": "#1a1079",
         "peekViewResult.selectionBackground": "#ffd400",
-        "peekViewTitle.background": "#372dc9",
+        "peekViewTitle.background": "#08f7ff3a",
         "peekViewTitleDescription.foreground": "#348bee",
 
         /*************************  MINIMAP  *************************/
