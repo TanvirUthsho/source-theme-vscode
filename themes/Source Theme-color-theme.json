@@ -625,7 +625,39 @@
                 "fontStyle": ""
             }
         },
+        // ======== CPP ==========
+        {
+            "name": "entity.name.function.member",
+            "scope": "entity.name.function.member",
+            "settings": {
+                "foreground": "#b7fa4a"
+            }
+        },
+        {
+            "name": "variable.other",
+            "scope": "variable.other.object.access",
+            "settings": {
+                "foreground": "#f7e8e8"
+            }
+        },
         // ===============python=================
+        // This colours both object definiton properties, as well as references. If the property does not exist, it will be white\.
+
+
+        {
+            "name": "keyword.control.import.python",
+            "scope": "keyword.control.import.python",
+            "settings": {
+                "foreground": "#ff008e"
+            }
+        },
+        {
+            "name": "source",
+            "scope": "meta.function-call.generic.python",
+            "settings": {
+                "foreground": "#2ed9f7"
+            }
+        },
         {
             "name": "PYTHON Self Argument",
             "scope": "variable.parameter.function.language.special.self.python",
@@ -996,7 +1028,7 @@
         // =============================== Side Bar: Where folder are shwoing =========================
         "sideBar.background": "#01182c",
 		"sideBar.border": "#2f2d6b",
-		"sideBar.foreground": "#c4c2fc",
+		"sideBar.foreground": "#ceccff",
 		"sideBarSectionHeader.background": "#01001d",
 		"sideBarSectionHeader.foreground": "#94fff6",
         "icon.foreground": "#03ffaa",
@@ -1230,9 +1262,9 @@
         "editorGutter.modifiedBackground": "#dfdc4b",
 
         // textBlockQuote
-        "textBlockQuote.background": "#193549",
+        "textBlockQuote.background": "#ffd6ff",
         "textBlockQuote.border": "#00ffb7",
-        "textCodeBlock.background": "#193549",
+        "textCodeBlock.background": "#ffd6ff",
         "textLink.activeForeground": "#00ffb7",
         "textLink.foreground": "#00ffb7",
         "textPreformat.foreground": "#ffc600",
