@@ -1264,7 +1264,7 @@
         // textBlockQuote
         "textBlockQuote.background": "#ffd6ff",
         "textBlockQuote.border": "#00ffb7",
-        "textCodeBlock.background": "#ffd6ff",
+        "textCodeBlock.background": "#590159",
         "textLink.activeForeground": "#00ffb7",
         "textLink.foreground": "#00ffb7",
         "textPreformat.foreground": "#ffc600",
