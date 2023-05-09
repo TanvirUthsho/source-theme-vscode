@@ -1262,10 +1262,10 @@
         "editorGutter.modifiedBackground": "#dfdc4b",
 
         // textBlockQuote
-        "textBlockQuote.background": "#ffd6ff",
+        "textBlockQuote.background": "#193b49",
         "textBlockQuote.border": "#00ffb7",
         "textCodeBlock.background": "#590159",
-        "textLink.activeForeground": "#00ffb7",
+        "textLink.activeForeground": "#fb94ff",
         "textLink.foreground": "#00ffb7",
         "textPreformat.foreground": "#ffc600",
         "textSeparator.foreground": "#0d3a58",
